@@ -1,0 +1,152 @@
+kind,id,animal,layer,element,gloss,certainty,scope
+named,Woolpit,wolf,english,OE wulf-pytt,pit for trapping wolves,certain,Suffolk
+named,Woolley,wolf,english,OE wulf + lēah,wood or clearing frequented by wolves,certain,West Yorkshire
+named,Woolley,wolf,english,OE wulf + lēah,wood or clearing frequented by wolves (as the Yorkshire Woolley; not checked for this one),probable,any
+named,Ulpha,wolf,norse,ON ulfr + haugr,hill frequented by wolves,certain,Cumbria
+named,Wolf's Castle,wolf,welsh,"Welsh Casblaidd, blaidd",the wolf's castle (Welsh Casblaidd),probable,Dyfed
+named,Beverley,beaver,english,OE beofor + a stream name,beaver stream or beaver lodge,certain,East Riding of Yorkshire
+named,Bevercotes,beaver,english,OE beofor + cot,"beavers' lodges, shelters for beavers",certain,Nottinghamshire
+named,Beversbrook,beaver,english,OE beofor + brōc,beavers' brook,probable,Wiltshire
+named,Cranfield,crane,english,OE cran + feld,open land frequented by cranes or herons,certain,Bedfordshire
+named,Cranbrook,crane,english,OE cran + brōc,brook frequented by cranes or herons,certain,Kent
+named,Cranborne,crane,english,OE cran + burna,stream frequented by cranes or herons,certain,Dorset
+named,Cranbourne,crane,english,OE cran + burna,stream frequented by cranes or herons,probable,Berkshire
+named,Cranford,crane,english,OE cran + ford,ford frequented by cranes or herons,certain,Greater London;Northamptonshire
+named,Cranmore,crane,english,OE cran + mere,pool frequented by cranes or herons,certain,Somerset
+named,Cranwell,crane,english,OE cran + wella,spring or stream frequented by cranes or herons,certain,Lincolnshire
+named,Cranleigh,crane,english,OE cran + lēah,clearing frequented by cranes or herons,certain,Surrey
+named,Cransley,crane,english,OE cran + lēah,clearing frequented by cranes or herons,probable,Northamptonshire
+named,Tranmere,crane,norse,ON trani + melr,sandbank frequented by cranes,certain,Merseyside
+named,Cranshaws,crane,english,OE cran + sceaga,wood frequented by cranes or herons,probable,Scottish Borders
+named,Arncliffe,eagle,english,OE earn + clif,cliff frequented by eagles,certain,North Yorkshire
+named,Earnley,eagle,english,OE earn + lēah,wood or clearing frequented by eagles,certain,West Sussex
+named,Arnold,eagle,english,OE earn + halh,nook of land frequented by eagles,certain,Nottinghamshire
+named,Arnold,eagle,english,OE earn + halh,nook of land frequented by eagles,probable,East Riding of Yorkshire
+named,Yarnscombe,eagle,english,OE earn + cumb,valley of the eagles,probable,Devon
+named,Ernesettle,eagle,english,OE earn + setl,eagle's seat or eyrie,probable,Devon
+named,Everley,boar,english,OE eofor + lēah,wood or clearing frequented by wild boar,certain,Wiltshire;North Yorkshire
+named,Eversley,boar,english,OE eofor + lēah,wood or clearing of the wild boar,certain,Hampshire
+named,Evershot,boar,english,OE eofor + scēat,corner of land frequented by wild boar,probable,Dorset
+named,Eversholt,boar,english,OE eofor + holt,wood frequented by wild boar,probable,Bedfordshire
+named,Everdon,boar,english,OE eofor + dūn,hill frequented by wild boar,probable,Northamptonshire
+named,Wildboarclough,boar,english,ME wilde bor + OE clōh,ravine frequented by wild boar,certain,Cheshire
+named,Hertford,deer,english,OE heorot + ford,ford frequented by harts,certain,Hertfordshire
+named,Hartlepool,deer,english,OE heorot + ēg + pōl,pool by the hart island (Heruteu),certain,Durham
+named,Hartfield,deer,english,OE heorot + feld,open land frequented by harts,certain,East Sussex
+named,Hartley,deer,english,OE heorot + lēah,wood or clearing frequented by harts,probable,any
+named,Hartley Wintney,deer,english,OE heorot + lēah,wood or clearing frequented by harts,certain,Hampshire
+named,Hartford,deer,english,OE heorot + ford,ford frequented by harts,probable,Cheshire;Cambridgeshire;Northumberland
+named,Harthill,deer,english,OE heorot + hyll,hill frequented by harts,probable,South Yorkshire;Cheshire;North Lanarkshire
+named,Hartshead,deer,english,OE heorot + hēafod,the hart's headland or hill,probable,West Yorkshire
+named,Hartsop,deer,english,OE heorot + hop,valley of the hart,certain,Cumbria
+named,Hartshorne,deer,english,OE heorot + horn,"hart's horn, a hill shaped like one",probable,Derbyshire
+named,Hartwell,deer,english,OE heorot + wella,spring frequented by harts,probable,Buckinghamshire;Northamptonshire
+named,Hartburn,deer,english,OE heorot + burna,stream frequented by harts,probable,Northumberland;Durham
+named,Hindhead,deer,english,OE hind + hēafod,hill frequented by hinds,certain,Surrey
+named,Hindley,deer,english,OE hind + lēah,wood or clearing frequented by hinds,certain,Greater Manchester
+named,Darley,deer,english,OE dēor + lēah,wood or clearing frequented by deer,probable,Derbyshire;North Yorkshire
+named,Durley,deer,english,OE dēor + lēah,wood or clearing frequented by deer,certain,Hampshire
+named,Deerhurst,deer,english,OE dēor + hyrst,wooded hill frequented by deer,certain,Gloucestershire
+named,Dyrham,deer,english,OE dēor + hamm,enclosed valley or deer enclosure,certain,Gloucestershire
+named,Dearham,deer,english,OE dēor + hām or hamm,homestead or enclosure where deer are kept,probable,Cumbria
+named,Brockhall,badger,english,OE brocc + hol,badger holes (setts),certain,Northamptonshire
+named,Brockholes,badger,english,OE brocc + hol,badger holes (setts),certain,West Yorkshire;Lancashire
+named,Foxley,fox,english,OE fox + lēah,wood or clearing frequented by foxes,certain,ENGLAND
+named,Foxholes,fox,english,OE fox + hol,"fox holes, earths",certain,North Yorkshire
+named,Foxearth,fox,english,OE fox + eorth,fox's earth,certain,Essex
+named,Foxcote,fox,english,OE fox + cot,fox's earth or den,probable,any
+named,Foxhall,fox,english,OE fox + hol,fox hole,probable,Suffolk
+named,Foxton,fox,english,OE fox + denu or tūn,valley or farm frequented by foxes,probable,Leicestershire;Cambridgeshire;Durham;North Yorkshire
+named,Catford,wildcat,english,OE catt + ford,ford frequented by (wild) cats,certain,Greater London
+named,Catcleugh,wildcat,english,OE catt + clōh,ravine of the (wild) cats,probable,Northumberland;Scottish Borders
+named,Catshill,wildcat,english,OE catt + hyll,hill frequented by (wild) cats,probable,Worcestershire
+named,Otterburn,otter,english,OE otor + burna,otter stream,certain,Northumberland;North Yorkshire
+named,Otterbourne,otter,english,OE otor + burna,otter stream,certain,Hampshire
+named,Ottery St Mary,otter,english,OE otor + ēa (River Otter),"on the River Otter, 'otter stream'",certain,Devon
+named,Otterton,otter,english,OE otor + ēa + tūn (River Otter),"farm on the River Otter, 'otter stream'",certain,Devon
+named,Leixlip,salmon,norse,ON lax + hlaup,salmon leap,certain,any
+named,Swanmore,swan,english,OE swan + mere,pool frequented by swans,probable,Hampshire
+named,Swanbourne,swan,english,OE swan + burna,stream frequented by swans,probable,Buckinghamshire
+named,Gledhow,kite,english,OE gleoda + hōh,hill spur frequented by kites,probable,West Yorkshire
+word,cy_blaidd,wolf,welsh,"blaidd, wolf (plural bleiddiaid)",(?<![a-z])(blaidd|bleiddiaid|bleiddiau)(?![a-z]),certain,Wales
+word,gd_madadh_allaidh,wolf,gaelic,"madadh-allaidh, wolf ('wild dog')",(?<![a-z])(madadh|mhadaidh|madaidh)[ -]allaidh(?![a-z]),certain,Scotland
+word,ga_mactire,wolf,irish,"mac tíre, wolf",(?<![a-z])mh?ac tire(?![a-z]),certain,Ireland;Northern Ireland
+word,cy_afanc,beaver,welsh,"afanc, beaver (also a water monster of legend)",(?<![a-z])(afanc|afangc)(?![a-z]),probable,Wales
+word,cy_garan,crane,welsh,"garan, crane or heron",(?<![a-z])(garan|ngaran)(?![a-z]),probable,Wales
+word,cy_eryr,eagle,welsh,"eryr, eagle",(?<![a-z])(eryr|eryrod)(?![a-z]),certain,Wales
+word,gd_iolair,eagle,gaelic,"iolair, eagle",(?<![a-z])(iolair|iolaire|h-iolaire|iolairean)(?![a-z]),certain,Scotland
+word,ga_iolar,eagle,irish,"iolar, eagle",(?<![a-z])(iolar|iolair|h-iolar|iolrach)(?![a-z]),certain,Ireland;Northern Ireland
+word,cy_baedd,boar,welsh,"baedd, boar",(?<![a-z])(baedd|baeddod)(?![a-z]),certain,Wales
+word,gd_torc,boar,gaelic,"torc, boar (genitive tuirc)",(?<![a-z])(torc|tuirc|thuirc)(?![a-z]),certain,Scotland
+word,ga_torc,boar,irish,"torc, boar",(?<![a-z])(torc|tuirc|dtorc|thorc)(?![a-z]),certain,Ireland;Northern Ireland
+word,cy_cigfran,raven,welsh,"cigfran, raven",(?<![a-z])(cigfran|gigfran)(?![a-z]),certain,Wales
+word,gd_fitheach,raven,gaelic,"fitheach, raven (genitive fithich)",(?<![a-z])(fitheach|fhitheach|fithich|fhithich)(?![a-z]),certain,Scotland
+word,cy_carw,deer,welsh,"carw, stag or deer (plural ceirw); hydd, stag; ewig, hind",(?<![a-z])(carw|ceirw|hydd|ewig|hyddod)(?![a-z]),certain,Wales
+word,gd_fiadh,deer,gaelic,"fiadh, deer (genitive fèidh); eilid, hind (genitive eilde)",(?<![a-z])(fiadh|fhiadh|feidh|fheidh|eilid|eilde|h-eilde|eildeig)(?![a-z]),certain,Scotland
+word,ga_fia,deer,irish,"fia, deer",(?<![a-z])(fia|fiadh|fhia|bhfia|fiaigh)(?![a-z]),certain,Ireland;Northern Ireland
+word,cy_broch,badger,welsh,"broch or mochyn daear, badger",(?<![a-z])(broch|mochyn daear|moch daear)(?![a-z]),probable,Wales
+word,gd_broc,badger,gaelic,"broc, badger (genitive bruic)",(?<![a-z])(broc|bruic|bhruic|bhroc)(?![a-z]),certain,Scotland
+word,ga_broc,badger,irish,"broc, badger; brocach, badger sett",(?<![a-z])(broc|mbroc|bruic|bhruic|brocach|brocaigh)(?![a-z]),certain,Ireland;Northern Ireland
+word,ie_brockagh,badger,irish,"anglicised Irish brocach, badger sett",(?<![a-z])(brockagh|brackagh|brocka)(?![a-z]),probable,Ireland;Northern Ireland
+word,ie_nabrock,badger,irish,"anglicised Irish na mbroc, of the badgers",nabrock(?![a-z]),probable,Ireland;Northern Ireland
+word,cy_llwynog,fox,welsh,"llwynog or cadno, fox",(?<![a-z])(llwynog|llwynogod|cadno|gadno|chadno|nghadno)(?![a-z]),certain,Wales
+word,gd_sionnach,fox,gaelic,"sionnach or madadh-ruadh, fox",(?<![a-z])(sionnach|shionnach|sionnaich|shionnaich|t-sionnaich|(madadh|mhadaidh|madaidh)[ -]ruaidh)(?![a-z]),certain,Scotland
+word,ga_sionnach,fox,irish,"sionnach or madra rua, fox",(?<![a-z])(sionnach|tsionnaigh|shionnaigh|sionnaigh|mhadra rua|madra rua)(?![a-z]),certain,Ireland;Northern Ireland
+word,cy_cath,wildcat,welsh,"cath, cat (wild cat in hill names)",(?<![a-z])(cath|gath|nghath|cathod)(?![a-z]),probable,Wales
+word,gd_cat,wildcat,gaelic,"cat, cat (wild cat in hill names)",(?<![a-z])(chait|nan cat|cat fiadhaich)(?![a-z]),probable,Scotland
+word,ga_cat,wildcat,irish,"cat, cat (wild cat in hill names)",(?<![a-z])(chait|gcat)(?![a-z]),probable,Ireland;Northern Ireland
+word,cy_dyfrgi,otter,welsh,"dyfrgi, otter",(?<![a-z])(dyfrgi|dwrgi|dyfrgwn)(?![a-z]),certain,Wales
+word,gd_dobhran,otter,gaelic,"dòbhran, otter",(?<![a-z])(dobhran|dhobhrain|dobhrain|dobharchu)(?![a-z]),certain,Scotland
+word,ga_dobharchu,otter,irish,"dobharchú or madra uisce, otter",(?<![a-z])(dobharchu|madra uisce|mhadra uisce)(?![a-z]),certain,Ireland;Northern Ireland
+word,cy_eog,salmon,welsh,"eog, salmon",(?<![a-z])(eog|eogiaid|samwn)(?![a-z]),certain,Wales
+word,gd_bradan,salmon,gaelic,"bradan, salmon",(?<![a-z])(bradan|bhradan|bradain|bhradain)(?![a-z]),certain,Scotland
+word,ga_bradan,salmon,irish,"bradán, salmon",(?<![a-z])(bradan|bhradain|mbradan)(?![a-z]),certain,Ireland;Northern Ireland
+word,cy_alarch,swan,welsh,"alarch, swan",(?<![a-z])(alarch|elyrch|alarchod)(?![a-z]),certain,Wales
+word,gd_eala,swan,gaelic,"eala, swan",(?<![a-z])(h-eala|eala|ealachan)(?![a-z]),certain,Scotland
+word,ga_eala,swan,irish,"eala, swan",(?<![a-z])(h-eala|eala|ealai)(?![a-z]),certain,Ireland;Northern Ireland
+word,cy_barcud,kite,welsh,"barcud, kite",(?<![a-z])(barcud|farcud|barcutiaid)(?![a-z]),certain,Wales
+modern,en_wolf,wolf,modern,,(?<![a-z])wolf(e|s|'s)?\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_wolf2,wolf,modern,,(?<![a-z])wolf(hole|pit|pits|cleugh|crag|crags|hill|hope|lee|elee|sdale|stone|stones)(?![a-z]),probable,UK
+modern,en_eagle,eagle,modern,,(?<![a-z])eagle(s|'s)?\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_raven,raven,modern,,(?<![a-z])raven(s|'s)?\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_raven2,raven,modern,,(?<![a-z])raven(scar|scliffe|stones?|crag|scleugh|shaw|hill|scrag|snest|stonedale)(?![a-z]),probable,UK
+modern,en_crane,crane,modern,,(?<![a-z])crane(s|'s)?\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_hart,deer,modern,,(?<![a-z])(hart|harts|hart's|hind|hinds|deer|stag|stags)\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_harter,deer,modern,,(?<![a-z])(harter fell|hartsop|hart side|hart crag)(?![a-z]),probable,UK
+modern,en_brock,badger,modern,,(?<![a-z])(brock|brocks|brock's|badger|badgers|badger's)\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_brock2,badger,modern,,(?<![a-z])brock(holes?|hole|crag|stones?)(?![a-z]),probable,UK
+modern,en_fox,fox,modern,,(?<![a-z])(fox|foxes|fox's|tod|tods|tod's)\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_fox2,fox,modern,,(?<![a-z])(fox|tod)(holes?|hills?|hall|crags?|knowe|law|cleugh|stones?|dens?)(?![a-z]),probable,UK
+modern,en_cat,wildcat,modern,,(?<![a-z])(cat|cats|cat's)\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_cat2,wildcat,modern,,(?<![a-z])(cat bells|catbells|catstycam|catstye cam|catcleugh|catcrag|catstones?|cat ?gill)(?![a-z]),probable,UK
+modern,en_otter,otter,modern,,(?<![a-z])(otter|otters|otter's)\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_otter2,otter,modern,,(?<![a-z])otter(swick|spool|hole|stone|shaw)(?![a-z]),probable,UK
+modern,en_swan,swan,modern,,(?<![a-z])(swan|swans|swan's)\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_kite,kite,modern,,(?<![a-z])(kite|kites|kite's|glede)\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_kite2,kite,modern,,(?<![a-z])kite(snest|brook)(?![a-z]),probable,UK
+modern,en_boar,boar,modern,,(?<![a-z])(wild boar|boar|boars|boar's)\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_beaver,beaver,modern,,(?<![a-z])(beaver|beavers)\s*(crags?|craig|scar|scars|nest|rock|rocks|cliff|clough|cleugh|hill|hills|knowe|knot|nab|gill|ghyll|holes?|howe?|tor|stones?|law|pike|fell|moss|wood|dale|den|dean|dene|heugh|hope|pits?|slack|side|edge|top|head|bank|cove|island|moor|pool|loch|lough|well|bog|bottom|burn|beck|brook|leap|seat|play|lea|lee|ley|haugh|mere|rigg|ridge|end)(?![a-z]),probable,UK
+modern,en_salmon,salmon,modern,,(?<![a-z])(salmon)\s*(leap|pool|rock)(?![a-z]),probable,UK
+exclude,,,,"Old English personal names (Wulfrun, Wulfhere, Wulfstan...)",wolverhampton|wolverton|wolvercote|wolverley|wolsingham|wolstanton|wolston|woolston|woolaston|wollaton|woolfardisworthy|wolferton|wolfreton|wolfhampcote|wolviston|woolsington|wolsty|wulf halh,,
+exclude,,,,"Wolf Rock, off Land's End, named for the noise of the sea",^(the )?wolf( rock)?$,,
+exclude,,,,"OE eclēs, Gaelic eaglais 'church', or Eagle in Lincolnshire, OE āc-lēah 'oak wood', and their offshoots",eaglesfield|eaglesham|eaglescliffe|egglescliffe|gleneagles|glen eagles|dalleagles|mounteagle|^eagle$|^eagle barnsdale|eagle moor|eaglehall|eagle hall,,
+exclude,,,,"personal names (Beornwulf, Arnold)",barnoldswick|arnold's|arnold ings|arnside|arnesby,,
+exclude,,,,personal or transferred names,beverston|beverstone|beveridge|beverkae|beveree|beverley (farm|spring),,
+exclude,,,,"OE burh 'fort', bord 'board', or modern",boarhunt|boarstall|boarden|boardmills|boardwalk|boards|wild boar enclosure|boars hill,,
+exclude,,,,"OE swān 'herdsman', Old Norse Sveinn, dialect swang 'bog'",swanage|swanscombe|swanton|swanley|swanwick|swannington|swansea|swang|aswanley,,
+exclude,,,,"St Catherine, personal names, cattle",catherine|cathedral|catton|caton|catchwater|cattle|catterick|catterall|cathedine|catthaw|catmose|catsfield,,
+exclude,,,,not otter,potter|totter|dotter|gotter|snotter|wotter|hotter|cotter|lotter|rotter,,
+exclude,,,,personal names or other words,hartlebury|hartington|hartpury|hartshill|harton|hartest,,
+exclude,,,,"OE hīwan 'household, monks' or St Hild",hinton|hindon|hinderwell|hinderclay|hindlip,,
+exclude,,,,"a medieval deer park: hunting, not the wild animal (counted apart)",deer park|deerpark|old deer park,,
+exclude,,,,OE brōc 'brook' or personal names,brockhampton|brockton|brockwell|brockley|brockhurst|brockham|brockenhurst|brockdish|brockworth|brocklesby|brockweir|brocton,,
+exclude,,,,"personal names, Todmorden",toddington|todmorden|todd\b|todds\b|todd's,,
+exclude,,,,"Old Norse personal name Hrafn, or Brittonic, or modern estate names",craven|ravensworth|ravensthorpe|raventhorpe|ravenstone$|ravenscar$|ravenglass|ravensdale|ravenseat|ravenspark|ravenswood|ravenhill|ravenfield|ravensfleet,,
+exclude,,,,"Gaelic or Irish crann 'tree', or uncertain",cranhill|crannagh|cranagh|crannich|cranaig|crannach|cranny|cranham|cranwich|cranmere,,
+exclude,,,,"anglicised madadh in Ireland and Galloway: dog, not wolf",limavady|polmaddy|portavadie|glenamaddy,,
+exclude,,,,"Old Norse vik, a bay, with a first element read as a personal or god name (Groome gives Odinswic for the Sanday bay), not secure for the otter",otterswick,,
+exclude,,,,personal or family names,salmonby|burton salmon|salmond|culsalmond,,
+exclude,,,,manorial or uncertain,kites hardwick|kitebrook,,
+exclude,,,,Badger in Shropshire (personal name) and modern house names,badger$|badgers mount|badgers glory|badgers dene,,
+exclude,,,,"fox coverts are planted for hunting, not evidence of wild foxes",foxton locks|foxhunters|fox covert,,
+exclude,,,,inn signs,fox and hounds|fox & hounds,,

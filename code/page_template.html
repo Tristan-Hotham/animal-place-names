@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Where the wolves were | Animals in British and Irish place names</title>
+<meta name="description" content="{{review.places|int}} places in Britain and Ireland whose names keep an animal: wolves, beavers, cranes, eagles and boar long gone from the land, mapped from OpenStreetMap with false friends removed by hand.">
+<meta property="og:title" content="Where the wolves were">
+<meta property="og:description" content="Place names as a fossil record of lost wildlife: {{animals.wolf.places|int}} wolf names, {{animals.crane.places|int}} crane names, {{animals.eagle.places|int}} eagle names and more, checked one by one.">
+<meta property="og:image" content="https://maps.tristanhotham.com/animal-place-names/header.png">
+<meta property="og:url" content="https://maps.tristanhotham.com/animal-place-names/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=MedievalSharp&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+{{CSS}}
+</head>
+<body>
+<div class="topbar">
+  <a class="tb-name" href="#mapWrap">Where the wolves were</a>
+  <span class="tb-k">Data study · 2026</span>
+  <nav class="tb-links"><a href="#essay">About</a><button class="theme" id="theme" aria-label="Toggle dark mode">◐</button><a href="https://doi.org/10.5281/zenodo.24075293">Paper</a><a class="x" href="https://github.com/Tristan-Hotham/animal-place-names">Data and code</a></nav>
+</div>
+
+<div class="mapband">
+  <div class="pane" id="mapWrap" data-fullscreen-map role="application" aria-label="Map of Britain and Ireland with every place and hill name that keeps an animal">
+    <div id="map"></div>
+    <div class="nojs" id="nojs">Loading the map. It needs JavaScript and WebGL.</div>
+    <div class="cartouche" id="cartouche">
+      <button class="ct-toggle" id="ctToggle" aria-expanded="true" title="Show the title">Where the wolves were <span aria-hidden="true">▾</span></button>
+      <button class="ct-fold" id="ctFold" title="Fold the title" aria-label="Fold the title">▴</button>
+      <div class="ct-body">
+        <div class="kicker"><b>Data study</b><span>2026</span></div>
+        <h1>Where the <span class="a">wolves</span> were</h1>
+        <p class="dek">Wolves, beavers, cranes and wild boar are long gone from these islands, but their names are not. {{review.places|int}} places and hills in Britain and Ireland keep an animal in their name. Pick an animal; tap a dot to read the name.</p>
+        <div class="byline">{{BYLINE}}</div>
+      </div>
+    </div>
+    <div class="ov ov-top">
+      <div class="srch"><input type="search" id="q" placeholder="Find a name or a town" aria-label="Find a name or a town" autocomplete="off"><ul class="sug" id="sug" role="listbox"></ul></div>
+      <div class="chips">{{CHIPS}}<button class="chip lyr" id="lyrBtn" aria-expanded="false" aria-controls="lp">Layers</button></div>
+    </div>
+    <div class="lp" id="lp" role="dialog" aria-label="Map layers">
+      <h4>Layers</h4>
+      <h5>Animal names</h5>
+      <label><input type="checkbox" id="ckNames" checked> Show the names</label>
+      <label><input type="checkbox" id="ckLab" checked> Labels when zoomed in</label>
+      <label><input type="checkbox" id="ckCert" checked> Etymology certain</label>
+      <label><input type="checkbox" id="ckProb" checked> Probable</label>
+      <h5>Language of the name</h5>
+      {{LANG_BOXES}}
+      <h5>Map</h5>
+      <label><input type="checkbox" data-g="mountains" checked> Ink mountains and hills</label>
+      <label><input type="checkbox" data-g="forests" checked> Forests, marsh and moor</label>
+      <label><input type="checkbox" data-g="rivers" checked> Rivers and lakes</label>
+      <label><input type="checkbox" data-g="names" checked> Place names</label>
+      <label><input type="checkbox" data-g="roads"> Roads</label>
+      <label><input type="checkbox" data-g="borders" checked> Borders</label>
+      <label><input type="checkbox" data-g="hillshade" checked> Hill shading</label>
+      <label><input type="checkbox" data-g="tint" checked> Watercolour tints</label>
+      <label><input type="checkbox" id="modern"> Plain modern map (to see where you are)</label>
+    </div>
+    <div class="keys" id="key"></div>
+  </div>
+</div>
+
+<div class="wrap" id="essay">
+<p class="lede" style="margin-top:6px">The last wolf in England was probably killed around 1500, the beaver had gone by the sixteenth century, perhaps much earlier, and cranes stopped breeding here around 1600. But Woolpit in Suffolk still means a pit for trapping wolves, Beverley a stream of beavers, Cranfield open land where cranes stood. Place names are a fossil record of the animals people lived beside. I searched {{n.points|int}} named places, hills, woods, crags, springs and bays in Britain and Ireland for the animals in their names, in Old English, Old Norse, Welsh, Scottish Gaelic and Irish, and threw out the false friends one by one.</p>
+<p>The map above shows the {{review.places|int}} places I kept. Choose an animal with the buttons; when one animal is chosen the dots are coloured by language. Larger dots are names whose meaning is certain, smaller ones probable. Tap any dot for what the name means.</p>
+<div class="byline">{{BYLINE}} · Names: OpenStreetMap · Base map: <a href="https://maps.tristanhotham.com/ink-map/">The Inked World</a></div>
+
+<div class="stats">
+<div class="stat"><b>{{animals.wolf.places|int}}</b><span>places named for wolves, at a median {{elev_test.wolf.median|int}} m above the sea</span></div>
+<div class="stat"><b>{{animals.crane.places|int}}</b><span>places named for cranes, birds that stopped breeding here around 1600</span></div>
+<div class="stat"><b>{{eagle.celtic_pc|pc}}</b><span>of eagle names are Gaelic, Welsh or Irish</span></div>
+<div class="stat"><b>{{review.corrected_pc|pc}}</b><span>of the {{review.candidates|int}} candidate names were false friends I removed</span></div>
+</div>
+
+<h2><span class="n">01 · The wolves</span>High on the crags</h2>
+<p>There are {{animals.wolf.places|int}} wolf names on the map. Only a handful are old and certain: <b>Woolpit</b> in Suffolk (Old English <i>wulf-pytt</i>, a pit to trap wolves), <b>Woolley</b> near Barnsley (a wood or clearing with wolves), <b>Ulpha</b> in the Duddon valley (Old Norse <i>ulfr</i> and <i>haugr</i>, the wolves' hill) and, in Welsh, <b>Cwm Bleiddiaid</b> in Gwynedd, the valley of wolves. Most of the rest are later English and Scots names of crags, cleughs and holes in the northern hills: Wolfhole Crag in the Forest of Bowland, Wolf Stones on the moors where Lancashire meets Yorkshire, Wolfcleugh in the North Pennines and Wolfelee in the Scottish Borders.</p>
+<p>They stand high. The median wolf name lies {{elev_test.wolf.median|int}} m above sea level, where random names of the same kinds (peaks, villages, localities and so on) lie at {{elev_test.wolf.null_median|int}} m; in 20,000 random draws none was as high. Even against the other animals' names of the same kinds, matched for old names and later descriptive ones, they stand higher (p = {{elev_test_other.wolf.p_high|f3}}). {{wolf_english.north_pc|pc}} of the English-language wolf names are north of Manchester. That fits the history: wolves lasted longest in the uplands and the north, and the crag names may record their last refuges, or simply the places shepherds feared them. A name is not a sighting, and some of these may recall a story or a surname.</p>
+<div class="figure"><img src="img/wolves.jpg" alt="Map of Britain and Ireland with the wolf names: old English villages such as Woolpit and Woolley in the south and Midlands, and many later crag and cleugh names in the northern Pennines and Cheviots" loading="lazy"><p class="src">Every wolf name kept, by language. Large symbols: certain.</p></div>
+
+<h2><span class="n">02 · The lost menagerie</span>Beavers, cranes and boar</h2>
+<p><b>Beavers</b> leave only {{animals.beaver.places|int}} names in this gazetteer: Beverley in the East Riding, Bevercotes in Nottinghamshire (the beavers' lodges) and Beversbrook in Wiltshire. <b>Cranes</b> leave {{animals.crane.places|int}}, almost all ({{crane_low.england_pc|pc}}) in England, from Kent and Dorset to Lincolnshire and the Wirral: Cranfield, Cranbrook, Cranborne, Cranford, Cranmore, Cranwell, Cranleigh, and Tranmere on the Wirral, from the Norse <i>trani</i>. The dictionaries often say "cranes or herons", because Old English <i>cran</i> may have covered both. I expected crane names in the Fens; only {{crane_low.fen_counties|int}} is in Cambridgeshire, Lincolnshire, Norfolk or Suffolk, and crane names lie no lower than ordinary names of the same kinds ({{elev_test.crane.median|int}} m against {{elev_test.crane.null_median|int}} m).</p>
+<p><b>Wild boar</b> left the wild in the thirteenth century, but {{animals.boar.places|int}} places keep them. In England they are old villages, Eversley and Everdon from Old English <i>eofor</i>, and Wildboarclough in the Peak; in Scotland they are Gaelic hills and fords with <i>tuirc</i>, the boar's: Beinn an Tuirc in Kintyre, Brig o' Turk in the Trossachs, Càrn an Tuirc above Glen Shee.</p>
+<div class="figure"><img src="img/animals.jpg" alt="Eight small maps of Britain and Ireland, one each for wolf, beaver, crane, wild boar, eagle, raven, deer and wildcat names" loading="lazy"><p class="src">Eight animals. Large dots: etymology certain; small dots: probable. Shetland not shown.</p></div>
+
+<h2><span class="n">03 · Two languages</span>Eagles in Gaelic, foxes in English</h2>
+<p>Each animal lives on in a different language. {{eagle.celtic_pc|pc}} of the {{eagle.n|int}} eagle names are Gaelic, Welsh or Irish: Creag na h-Iolaire, the eagle's crag, and its cousins on dozens of Highland hills; Carreg yr Eryr and Pen-yr-eryr in Wales; Nead an Iolair, the eagle's nest, in Ireland. Only {{eagle.english|int}} are Old English, from <i>earn</i>: Arncliffe in Littondale, Earnley in Sussex, Arnold near Nottingham. Ravens are the same: {{animals.raven.celtic|int}} of {{animals.raven.places|int}} are Gaelic <i>fitheach</i> or Welsh <i>cigfran</i>, and the English ones are crags and scars, {{raven_modern.cumbria_nland_pc|pc}} of them in Cumbria and Northumberland. Foxes and deer, still common, are named mostly in later English and Scots: Fox Hill, Foxholes, Tod Law and Tod Crag (Scots <i>tod</i>, the fox), Hart Crag and Harter Fell.</p>
+<div class="figure"><img src="img/eagles.jpg" alt="Two maps: eagle names, mostly Gaelic in the Highlands with a few Welsh and Old English ones further south; raven names, Gaelic in the west Highlands and English crags in Cumbria" loading="lazy"><p class="src">Eagle and raven names by language.</p></div>
+<div class="figure"><img src="img/layers.jpg" alt="Bar chart of the number of places for each animal, split by language: deer, fox and raven are mostly modern English or Scots, eagles and boar mostly Gaelic" loading="lazy"><p class="src">Each animal's places by language.</p></div>
+
+<h2><span class="n">04 · Up and down</span>Where each animal is named</h2>
+<p>Ground height tells the story too. Against random names of the same kinds, wolf, boar and deer names stand much higher than expected, ravens and wildcats a little higher, and fox, badger, eagle and crane names about where expected. Otter names lie low, at a median of {{elev_test.otter.median|int}} m against {{elev_test.otter.null_median|int}} m expected, by rivers and the sea, as they should, though with only {{elev_test.otter.n|int}} places that difference is at the edge of chance (p = {{elev_test.otter.p_low|f2}}).</p>
+<div class="figure"><img src="img/height.jpg" alt="Strip chart of ground height by animal: wolf, boar and deer names well above the expected median, otter names below" loading="lazy"><p class="src">Ground height of each place (UK) with the median, against the median expected for names of the same kinds.</p></div>
+<p>The richest corner of all is the Lake District: one 10 km square in the fells around Dunnerdale holds names for {{hotspot_top.k|int}} different animals. By county, {{county_top.0.county}} has the most animal names for its size, {{county_top.0.per_1000|f1}} for every 1,000 named points, against {{uk_per_1000|f1}} across the UK.</p>
+
+<h2><span class="n">05 · The names outlived them</span>A fossil record</h2>
+<p>Most of the old English names on this map were formed between the seventh and the eleventh centuries, when wolves, beavers, cranes and boar were part of ordinary life. Put the dates side by side and the names have outlived the animals by four to eight hundred years.</p>
+<div class="figure"><img src="img/lost.jpg" alt="Timeline from 800 to 2026 with the date each animal was lost: bear early medieval, wild boar 13th century, wolf in England around 1500, beaver 16th century, crane around 1600, wolf in Scotland around 1700, wolf in Ireland 1786, white-tailed eagle 1918, with the number of names surviving" loading="lazy"><p class="src">When each animal was lost in the wild, from the histories cited in the paper, and how many names keep it.</p></div>
+<p>Some have come back: white-tailed eagles were released on Rum from 1975, and cranes and beavers have since returned to a few places too. Their old names were waiting for them. There is no place name I could trust for the bear, which was gone before most of these names were made.</p>
+
+<h2><span class="n">06 · False friends</span>Wolverhampton is not about wolves</h2>
+<p>Place names love to mislead. I wrote down the false friends as I found them and removed {{review.false_friends|int}} by rule and {{review.dropped|int}} more by hand, {{review.corrected_pc|f1}}% of the {{review.candidates|int}} candidates, after reading every one:</p>
+<ul class="ff">
+<li><b>Wolverhampton</b>: Wulfrun's high farm, after a woman's name. Wolverton, Wolsingham and Woolston are personal names too.</li>
+<li><b>Eagle</b> in Lincolnshire: Old English <i>āc-lēah</i>, an oak wood. Eaglesham and Gleneagles come from Gaelic <i>eaglais</i>, a church.</li>
+<li><b>Swanage</b>, <b>Swanton</b> and <b>Swanley</b>: Old English <i>swān</i>, a herdsman, not a swan.</li>
+<li><b>Roedean</b>: a rough valley, not roe deer.</li>
+<li><b>Brockley</b>, <b>Brockhampton</b>, <b>Brockworth</b>: brooks, not badgers.</li>
+<li><b>Cranagh</b> and many Irish and Gaelic <i>Cran-</i> names: <i>crann</i>, a tree.</li>
+<li><b>Donnybrook</b>: Domhnach Broc, the church of Saint Broc.</li>
+<li><b>Colmonell</b>: Saint Colmán Ela, not <i>eala</i>, a swan.</li>
+</ul>
+<p>Gaelic <i>madadh</i> on its own can be a dog, a fox or a wolf, so its {{review.madadh|int}} names (Creag a' Mhadaidh and the like) are on none of the counts.</p>
+
+<h2><span class="n">07 · How I did this</span>A careful word list</h2>
+<p><b>Names.</b> From OpenStreetMap (via the QLever query engine): {{n.uk_place|int}} place points in the UK, from cities to farms and localities, with their Welsh and Gaelic names where tagged; {{n.uk_nature|int}} named peaks, hills, ridges, valleys, woods, cliffs, springs and bays; and {{n.ie_place|int}} place points in Ireland, with their Irish names where tagged.</p>
+<p><b>Animal words.</b> Three kinds of rule. First, {{n.named_rules|int}} English and Norse settlement names that the place-name dictionaries (Mills, Watts, Ekwall) explain with an animal, matched only as whole names and, where I know the county, only there: so Woolpit, Beverley and Cranfield, but not any farm that happens to share the name. Second, the ordinary Welsh, Gaelic and Irish words for each animal, inside each language's country (Welsh <i>blaidd</i>, wolf; Gaelic <i>iolair</i>, eagle; Irish <i>broc</i>, badger, and so on). Third, the English and Scots words (wolf, eagle, raven, hart, fox, tod, brock) but only with a landscape word (crag, hill, knowe, hole, scar) and never on houses, farms or modern suburbs. These last are mostly later medieval or modern, and marked probable. A list of false friends removes what it can; I read every remaining candidate and removed or corrected more by hand, recording each decision.</p>
+<p><b>Counting.</b> Repeats of one name within 3 km (Woolpit, Woolpit Green and Woolpit Heath) count as one place, which merged {{review.repeats_merged|int}} names. Ground heights come from the open AWS Terrain Tiles.</p>
+<p><b>What this cannot say.</b> A name records what someone noticed, or feared, or joked about, when the name was given, not where an animal lived. OpenStreetMap is a gazetteer of today's points, not of every field and farm name ever recorded, so the counts are a sample, uneven between regions (field names, where most wildlife names hide, are almost absent). The dictionary readings are those of the standard works; some are debated, and the descriptive English names may honour a surname or an inn. Treat any single dot as a lead to follow up, and the patterns as the finding.</p>
+
+<details><summary>Sources and licences</summary>
+<ul class="plain">
+<li>Names: <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a> (ODbL), queried with QLever (University of Freiburg). The derived table is under the ODbL.</li>
+<li>Etymologies: A. D. Mills, <i>A Dictionary of British Place-Names</i> (Oxford, 2011); V. Watts, <i>The Cambridge Dictionary of English Place-Names</i> (2004); E. Ekwall, <i>The Concise Oxford Dictionary of English Place-Names</i> (1960); H. W. Owen and R. Morgan, <i>Dictionary of the Place-Names of Wales</i> (2007); W. J. Watson, <i>The History of the Celtic Place-Names of Scotland</i> (1926).</li>
+<li>Wildlife history: D. Yalden, <i>The History of British Mammals</i> (1999); C. Aybes and D. W. Yalden (1995), Mammal Review; S. Boisseau and D. W. Yalden (1998), Ibis; B. Coles, <i>Beavers in Britain's Past</i> (2006); A. Pluskowski, <i>Wolves and the Wilderness in the Middle Ages</i> (2006); K. Hickey (2000), Irish Geography; J. A. Love, <i>The Return of the Sea Eagle</i> (1983).</li>
+<li>Ground height: AWS Terrain Tiles (open data). Counties: ONS boundaries (Open Government Licence v3.0).</li>
+<li>Base map: The Inked World (MIT code), drawn live from OpenStreetMap vector tiles served by OpenFreeMap (ODbL). MapLibre GL JS 4.7.1 (BSD 3-Clause). Fonts: MedievalSharp and IM Fell (SIL Open Font License).</li>
+</ul></details>
+
+<div class="cta"><a class="p" href="https://doi.org/10.5281/zenodo.24075293">Read the paper</a><a href="https://github.com/Tristan-Hotham/animal-place-names">Data and code</a><a href="https://blog.tristanhotham.com/2026/10/31/animal-place-names/">Blog post</a></div>
+
+<footer>
+<p>Dr Tristan Hotham, Independent researcher. ORCID <a href="https://orcid.org/0000-0003-4931-9349">0000-0003-4931-9349</a>.</p>
+<p>Cite as: Hotham, T. (2026) Where the wolves were: animals in the place names of Britain and Ireland. Zenodo. <a href="https://doi.org/10.5281/zenodo.24075293">10.5281/zenodo.24075293</a></p>
+<p>Code: <a href="https://github.com/Tristan-Hotham/animal-place-names">github.com/Tristan-Hotham/animal-place-names</a> (MIT). Text and figures CC BY 4.0; the name table is derived from OpenStreetMap (ODbL).</p>
+<p>{{AI}}</p>
+</footer>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script>
+// The Inked World engine is shared with maps.tristanhotham.com/ink-map/ (same site): its scripts, data, fonts and worker
+// are read from there, so this repository stays small.
+window.INKBASE = new URL('../ink-map/', location.href).href;
+</script>
+<script src="js/page.js?v={{VERSION}}"></script>
+{{FULLSCREEN}}
+<script src="https://maps.tristanhotham.com/assets/site-nav.js" defer></script>
+</body>
+</html>

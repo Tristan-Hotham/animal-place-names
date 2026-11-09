@@ -1,0 +1,824 @@
+osm,name,name_cy,name_gd,name_ga,animal,rule,certainty,status,why,kind,county,nation,lon,lat
+node/3479797847,Brackagh,,,,badger,word:ie_brockagh,probable,dropped in review,"Brackagh: usually Irish breacach, speckled place, not brocach",locality,Northern Ireland,Northern Ireland,-6.542304,54.833722
+node/2713368311,Brackagh,,,,badger,word:ie_brockagh,probable,dropped in review,"Brackagh: usually Irish breacach, speckled place, not brocach",locality,,Ireland,-7.033824,53.402163
+node/52230981,Brackagh,,,,badger,word:ie_brockagh,probable,dropped in review,"Brackagh: usually Irish breacach, speckled place, not brocach",locality,,Ireland,-7.215,53.265278
+node/797735539,Brackagh Nature Reserve,,,,badger,word:ie_brockagh,probable,dropped in review,"Brackagh: usually Irish breacach, speckled place, not brocach",locality,Northern Ireland,Northern Ireland,-6.432718,54.398319
+node/35973636,Brockwood Bottom,,,,badger,modern:en_brock,probable,dropped in review,Brockwood: brook or badger not settled,locality,Hampshire,England,-1.113077,51.030374
+node/3017802909,Brockwood Hill,,,,badger,modern:en_brock,probable,dropped in review,Brockwood: brook or badger not settled,peak,Staffordshire,England,-2.324662,53.069242
+node/1419136873,Donnybrook,,,Domhnach Broc,badger,word:ga_broc,certain,dropped in review,"Donnybrook, Domhnach Broc: the church of St Broc, a saint's name",suburb,,Ireland,-6.236355,53.322042
+node/9630121617,Beavers Hill,,,,beaver,modern:en_beaver,probable,dropped in review,Beavers Hill: Beavers is a surname; no early form,peak,Dyfed,Wales,-4.804406,51.667364
+node/10903510930,Boar's Bottom,,,,boar,modern:en_boar,probable,dropped in review,Boar's Bottom: no early form checked,locality,Wiltshire,England,-2.211385,51.14301
+node/29594456,Boarhills,,,,boar,modern:en_boar,probable,dropped in review,"Boarhills, Fife: early forms Byrehills, a byre",hamlet,Fife,Scotland,-2.704061,56.316903
+node/255122987,Boarley,,,,boar,modern:en_boar,probable,dropped in review,Boarley: no early form checked,hamlet,Kent,England,0.527332,51.306949
+node/4917483898,Boarshead,,,,boar,modern:en_boar,probable,dropped in review,Boarshead: probably an inn sign,hamlet,East Sussex,England,0.188291,51.075226
+node/941645176,Boarshill,,,,boar,modern:en_boar,probable,dropped in review,Boarshill: no early form checked,hamlet,Devon,England,-3.861686,50.323504
+node/726652793,Arbirlot,,Obar Eilid,,deer,word:gd_fiadh,certain,dropped in review,"Arbirlot, Obar Eilid: the Elliot Water, a river name",village,Angus,Scotland,-2.649771,56.555558
+node/6348584681,Monzie,,Mon Fhiadh,,deer,word:gd_fiadh,certain,dropped in review,Monzie: the Gaelic form Mon Fhiadh in OSM is not the accepted derivation,isolated_dwelling,Perth and Kinross,Scotland,-3.792591,56.789289
+node/30787371,Stags Head,,,,deer,modern:en_hart,probable,dropped in review,Stags Head: an inn sign,village,Devon,England,-3.889168,51.033927
+node/2902027849,Foxhills Industrial Estate,,,,fox,modern:en_fox,probable,dropped in review,Foxhills Industrial Estate: modern,locality,Lincolnshire,England,-0.662279,53.610825
+node/8947063617,Foxwell Lane Bridge,,,,fox,modern:en_fox,probable,dropped in review,Foxwell Lane Bridge: a lane name,locality,Somerset,England,-2.745684,50.90617
+node/1611153542,Todpool,,,,fox,modern:en_fox,probable,dropped in review,"Todpool, Cornwall: tod is not a Cornish word for fox; uncertain",hamlet,Cornwall,England,-5.168145,50.245202
+node/1494375927,Otterburn Camp,,,,otter,modern:en_otter,probable,dropped in review,"Otterburn Camp: the army camp named after Otterburn village, not a separate name",locality,Northumberland,England,-2.168469,55.258188
+node/14676769,Ravensden,,,,raven,modern:en_raven,probable,dropped in review,Ravensden: Old English personal name Hraefn likely,village,Bedfordshire,England,-0.442714,52.177885
+node/11911098980,St Raven's Edge,,,,raven,modern:en_raven,probable,dropped in review,St Raven's Edge: the saint's prefix shows this is not simply the bird; origin obscure,peak,Cumbria,England,-2.917796,54.467351
+node/3648004471,Black Swan Hill,,,,swan,modern:en_swan,probable,dropped in review,Black Swan Hill: an inn sign,locality,Cambridgeshire,England,-0.416684,52.585081
+node/530260647,Colmonell,,Colman Eala,,swan,word:gd_eala,certain,dropped in review,"Colmonell, Colman Eala: St Colman Ela, a saint, not eala swan",village,South Ayrshire,Scotland,-4.907244,55.13306
+node/587658037,Swan Bank,,,,swan,modern:en_swan,probable,dropped in review,Swan Bank: probably an inn sign,hamlet,Staffordshire,England,-2.326282,53.008767
+node/2654341770,Catley's Row,,,,wildcat,modern:en_cat,probable,dropped in review,Catley's Row: a surname,locality,Lincolnshire,England,0.151304,53.317834
+node/3353944323,Brock's Hill Swang,,,,badger,modern:en_brock,probable,false friend,"OE swān 'herdsman', Old Norse Sveinn, dialect swang 'bog'",locality,Durham,England,-2.131449,54.464327
+node/339351413,Brockley,,,,badger,modern:en_brock,probable,false friend,OE brōc 'brook' or personal names,village,Suffolk,England,0.669468,52.159513
+node/2167793000,Brockley Banks,,,,badger,modern:en_brock,probable,false friend,OE brōc 'brook' or personal names,locality,Northumberland,England,-1.783111,55.189108
+node/29498852,Brockley Court,,,,badger,modern:en_brock,probable,false friend,OE brōc 'brook' or personal names,hamlet,Somerset,England,-2.76878,51.399417
+node/60201068,Brockley Green,,,,badger,modern:en_brock,probable,false friend,OE brōc 'brook' or personal names,hamlet,Suffolk,England,0.513213,52.094666
+node/369015704,Brockley Hall,,,,badger,modern:en_brock,probable,false friend,OE brōc 'brook' or personal names,locality,Northumberland,England,-1.867519,55.282613
+node/6778365129,Brockwell,,,,badger,modern:en_brock,probable,false friend,OE brōc 'brook' or personal names,hamlet,Somerset,England,-3.533317,51.177828
+node/10607691630,Brockwell Coppice,,,,badger,modern:en_brock,probable,false friend,OE brōc 'brook' or personal names,locality,Dorset,England,-2.03641,50.959255
+node/6778365118,Higher Brockwell,,,,badger,modern:en_brock,probable,false friend,OE brōc 'brook' or personal names,hamlet,Somerset,England,-3.536817,51.177371
+node/262698,Boarden Door Bottom,,,,boar,modern:en_boar,probable,false friend,"OE burh 'fort', bord 'board', or modern",locality,West Sussex,England,-0.691975,51.070128
+node/761648093,Boars Hill,,,,boar,modern:en_boar,probable,false friend,"OE burh 'fort', bord 'board', or modern",hamlet,Oxfordshire,England,-1.291017,51.716059
+node/7944320728,Boars Hill,,,,boar,modern:en_boar,probable,false friend,"OE burh 'fort', bord 'board', or modern",peak,Oxfordshire,England,-1.288725,51.715536
+node/833913059,Hartshill,,,,deer,modern:en_hart,probable,false friend,personal names or other words,hamlet,Herefordshire,England,-2.536664,51.892099
+node/14099629577,Hartshill Pyramid,,,,deer,modern:en_hart,probable,false friend,personal names or other words,peak,Warwickshire,England,-1.51096,52.548542
+node/243767494,Eagle Moor,,,,eagle,modern:en_eagle,probable,false friend,"OE eclēs, Gaelic eaglais 'church', or Eagle in Lincolnshire, OE āc-lēah 'oak wood', and their offshoots",hamlet,Lincolnshire,England,-0.671904,53.203269
+node/440713222,Kitebrook,,,,kite,modern:en_kite,probable,false friend,manorial or uncertain,hamlet,Warwickshire,England,-1.647961,51.981581
+node/13970065227,Otterswick,,,,otter,modern:en_otter2,probable,false friend,"Old Norse vik, a bay, with a first element read as a personal or god name (Groome gives Odinswic for the Sanday bay), not secure for the otter",hamlet,Orkney Islands,Scotland,-2.561874,59.258796
+node/1838212217,Otterswick,,,,otter,modern:en_otter2,probable,false friend,"Old Norse vik, a bay, with a first element read as a personal or god name (Groome gives Odinswic for the Sanday bay), not secure for the otter",hamlet,Shetland Islands,Scotland,-1.049579,60.552046
+node/13360109412,Ward of Otterswick,,,,otter,modern:en_otter2,probable,false friend,"Old Norse vik, a bay, with a first element read as a personal or god name (Groome gives Odinswic for the Sanday bay), not secure for the otter",peak,Shetland Islands,Scotland,-1.088638,60.546305
+node/359376222,Ravenhill,,,,raven,modern:en_raven,probable,false friend,"Old Norse personal name Hrafn, or Brittonic, or modern estate names",hamlet,Gloucestershire,England,-2.438562,51.916412
+node/291695324,Ravenscar,,,,raven,modern:en_raven,probable,false friend,"Old Norse personal name Hrafn, or Brittonic, or modern estate names",village,North Yorkshire,England,-0.493073,54.397585
+node/10255307120,Ravenseat,,,,raven,modern:en_raven,probable,false friend,"Old Norse personal name Hrafn, or Brittonic, or modern estate names",locality,North Yorkshire,England,-2.218936,54.432005
+node/1381588571,Ravenseat,,,,raven,modern:en_raven,probable,false friend,"Old Norse personal name Hrafn, or Brittonic, or modern estate names",hamlet,North Yorkshire,England,-2.213071,54.42574
+node/112245839,Ravenstone,,,,raven,modern:en_raven,probable,false friend,"Old Norse personal name Hrafn, or Brittonic, or modern estate names",village,Buckinghamshire,England,-0.760021,52.148799
+node/27042352,Ravenstone,,,,raven,modern:en_raven,probable,false friend,"Old Norse personal name Hrafn, or Brittonic, or modern estate names",village,Leicestershire,England,-1.40533,52.72001
+node/2436619655,Hill of Swanley,,,,swan,modern:en_swan,probable,false friend,"OE swān 'herdsman', Old Norse Sveinn, dialect swang 'bog'",peak,Aberdeenshire,Scotland,-2.307099,56.97658
+node/29369448,Swanley,,,,swan,modern:en_swan,probable,false friend,"OE swān 'herdsman', Old Norse Sveinn, dialect swang 'bog'",town,Kent,England,0.171427,51.396305
+node/5286000647,Swanley,,,,swan,modern:en_swan,probable,false friend,"OE swān 'herdsman', Old Norse Sveinn, dialect swang 'bog'",hamlet,Gloucestershire,England,-2.434746,51.665489
+node/9188640611,Swanley Bar,,,,swan,modern:en_swan,probable,false friend,"OE swān 'herdsman', Old Norse Sveinn, dialect swang 'bog'",hamlet,Hertfordshire,England,-0.183466,51.711544
+node/644144789,Swanley Village,,,,swan,modern:en_swan,probable,false friend,"OE swān 'herdsman', Old Norse Sveinn, dialect swang 'bog'",village,Kent,England,0.195495,51.404913
+node/3069967875,Altnabrock,,,,badger,word:ie_nabrock,probable,kept,,locality,Northern Ireland,Northern Ireland,-7.401148,54.27659
+node/2821329740,Badger Bank,,,,badger,modern:en_brock,probable,kept,,locality,Lincolnshire,England,0.164763,53.060002
+node/2698832094,Badger Hills,,,,badger,modern:en_brock,probable,kept,,locality,Lincolnshire,England,-0.17479,53.499599
+node/2698892264,Badger Hills,,,,badger,modern:en_brock,probable,kept,,locality,Lincolnshire,England,-0.264704,53.496897
+node/981330399,Badger Holes,,,,badger,modern:en_brock,probable,kept,,wood,Gloucestershire,England,-2.23971,51.922426
+node/3592139317,Badger Island,,,,badger,modern:en_brock,probable,kept,,locality,Northern Ireland,Northern Ireland,-6.38024,54.353342
+node/13657520055,Badger Wood,,,,badger,modern:en_brock,probable,kept,,locality,Cumbria,England,-2.6587,54.637514
+node/8630318867,Badger's Well,,,,badger,modern:en_brock,probable,kept,,spring,Oxfordshire,England,-1.370478,51.710398
+node/3723124887,Badgers Hill,,,,badger,modern:en_brock,probable,kept,,peak,Staffordshire,England,-2.021281,52.727513
+node/3779428517,Brock,,Am Broc,,badger,word:gd_broc,certain,kept,,locality,Argyll and Bute,Scotland,-6.771419,56.527251
+node/2094802835,Brock Crag,,,,badger,modern:en_brock,probable,kept,,locality,Northumberland,England,-2.05212,55.180796
+node/5004669644,Brock Crag,,,,badger,modern:en_brock,probable,kept,,locality,Cumbria,England,-2.786859,54.447864
+node/5007542870,Brock Crag,,,,badger,modern:en_brock,probable,kept,,locality,Cumbria,England,-3.176212,54.632737
+node/434306756,Brock Crag,,,,badger,modern:en_brock,probable,kept,,peak,Cumbria,England,-3.007964,54.321621
+node/676847378,Brock Crag,,,,badger,modern:en_brock,probable,kept,,peak,Cumbria,England,-2.847819,54.562644
+node/560045874,Brock Crags,,,,badger,modern:en_brock,probable,kept,,peak,Cumbria,England,-2.902599,54.514879
+node/12561176892,Brock Crags (summit),,,,badger,modern:en_brock,probable,kept,,peak,Cumbria,England,-2.899009,54.515267
+node/569984886,Brock Hill,,,,badger,modern:en_brock,probable,kept,,hamlet,Berkshire,England,-0.71735,51.438931
+node/5739576813,Brock Hill,,,,badger,modern:en_brock,probable,kept,,hamlet,Essex,England,0.510419,51.63745
+node/10000482129,Brock Hill,,,,badger,modern:en_brock,probable,kept,,peak,Gloucestershire,England,-2.274109,51.640492
+node/282535249,Brock Hill,,,,badger,modern:en_brock,probable,kept,,peak,Surrey,England,-0.669762,51.3287
+node/3256443045,Brock Hill,,,,badger,modern:en_brock,probable,kept,,peak,Hampshire,England,-1.624138,50.850694
+node/3546857813,Brock Hill,,,,badger,modern:en_brock,probable,kept,,peak,Dumfries and Galloway,Scotland,-3.390482,55.289963
+node/5787305992,Brock Hole,,,,badger,modern:en_brock,probable,kept,,locality,Cumbria,England,-3.259583,54.686498
+node/4948867948,Brock How,,,,badger,modern:en_brock,probable,kept,,locality,Cumbria,England,-3.1629,54.366412
+node/4950906522,Brock How,,,,badger,modern:en_brock,probable,kept,,locality,Cumbria,England,-3.135326,54.38496
+node/1801695023,Brock Knowe,,,,badger,modern:en_brock,probable,kept,,peak,South Lanarkshire,Scotland,-3.881589,55.690342
+node/322975458,Brock's Hill,,,,badger,modern:en_brock,probable,kept,,locality,Northumberland,England,-2.432769,55.060528
+node/3353944324,Brock's Hill,,,,badger,modern:en_brock,probable,kept,,locality,Durham,England,-2.126465,54.462321
+node/12805786260,Brock's Hill,,,,badger,modern:en_brock,probable,kept,,peak,Hampshire,England,-0.815517,51.264248
+node/267762602,Brockagh,,,,badger,word:ie_brockagh,probable,kept,,locality,Northern Ireland,Northern Ireland,-6.6,54.55
+node/3669354908,Brockagh,,,,badger,word:ie_brockagh,probable,kept,,locality,Northern Ireland,Northern Ireland,-6.615346,54.554679
+node/52240143,Brockagh,,,,badger,word:ie_brockagh,probable,kept,,locality,,Ireland,-9.497222,53.854722
+node/52241045,Brockagh,,,,badger,word:ie_brockagh,probable,kept,,locality,,Ireland,-6.360646,53.036541
+node/52256332,Brockagh,,,,badger,word:ie_brockagh,probable,kept,,locality,,Ireland,-8.243333,54.945556
+node/52262777,Brockagh,,,,badger,word:ie_brockagh,probable,kept,,locality,,Ireland,-7.981667,54.275556
+node/991667056,Brockagh Cross,,,,badger,word:ie_brockagh,probable,kept,,locality,,Ireland,-6.825883,53.285366
+node/6393616665,Brockagh Mountain,,,,badger,word:ie_brockagh,probable,kept,,locality,Northern Ireland,Northern Ireland,-7.153847,54.981556
+node/3714975810,Brockhall,,,,badger,named:Brockhall,certain,kept,,village,Northamptonshire,England,-1.073185,52.258893
+node/4530605286,Brockhill,,,,badger,modern:en_brock,probable,kept,,hamlet,Dorset,England,-2.239747,50.732951
+node/3501269640,Brockhill Bridge,,,,badger,modern:en_brock,probable,kept,,locality,Berkshire,England,-0.718799,51.436712
+node/251165647,Brockhills Cross,,,,badger,modern:en_brock,probable,kept,,locality,Devon,England,-3.711826,50.402944
+node/8952397017,Brockhole,,,,badger,modern:en_brock,probable,kept,,locality,Dorset,England,-2.311339,50.936235
+node/1789950103,Brockhole Break,,,,badger,modern:en_brock,probable,kept,,locality,Devon,England,-4.170835,51.184675
+node/2576933276,Brockholes,,,,badger,modern:en_brock,probable,kept,,hamlet,Scottish Borders,Scotland,-2.287755,55.866458
+node/956449978,Brockholes,,,,badger,named:Brockholes,certain,kept,,village,West Yorkshire,England,-1.77417,53.596541
+node/9055444034,Brockholes Bank,,,,badger,modern:en_brock,probable,kept,,locality,Cumbria,England,-2.595151,54.40772
+node/2586475460,Brockholes Hill,,,,badger,modern:en_brock,probable,kept,,peak,Scottish Borders,Scotland,-2.29371,55.878681
+node/635855703,Brockloch,,,,badger,modern:en_brock,probable,kept,,hamlet,South Ayrshire,Scotland,-4.756229,55.218199
+node/4887948923,Brockloch Fell,,,,badger,modern:en_brock,probable,kept,,peak,Dumfries and Galloway,Scotland,-4.972774,54.992433
+node/14201906616,Brockloch Hill,,,,badger,modern:en_brock,probable,kept,,locality,Dumfries and Galloway,Scotland,-4.323904,55.03722
+node/471580385,Brocks Holes,,,,badger,modern:en_brock,probable,kept,,locality,Northumberland,England,-2.23324,55.385309
+node/29094633,Broxburn,Srath Bhroc,Srath Bhroc,,badger,word:gd_broc,certain,kept,,town,West Lothian,Scotland,-3.469387,55.934392
+node/3079166902,Carricknabrock,,,,badger,word:ie_nabrock,probable,kept,,locality,Northern Ireland,Northern Ireland,-7.912283,54.331761
+node/3644031596,Carricknabrock,,,,badger,word:ie_nabrock,probable,kept,,locality,,Ireland,-7.136524,54.334463
+node/3762907993,Carricknabrock,,,,badger,word:ie_nabrock,probable,kept,,locality,,Ireland,-7.651186,54.170058
+node/52220574,Clashnabrock,,,,badger,word:ie_nabrock,probable,kept,,locality,,Ireland,-8.583333,52.166667
+node/3662173050,Croaghnabrock,,,,badger,word:ie_nabrock,probable,kept,,locality,,Ireland,-7.747877,55.216209
+node/3484483170,Crocknabrock,,,,badger,word:ie_nabrock,probable,kept,,peak,Northern Ireland,Northern Ireland,-6.802808,54.89489
+node/7555603620,Crocknabrock,,,,badger,word:ie_nabrock,probable,kept,,locality,,Ireland,-8.379907,54.318419
+node/1456340168,Ibrox,,Àth Bruic,,badger,word:gd_broc,certain,kept,,suburb,Glasgow City,Scotland,-4.309291,55.85313
+node/3676948626,Knocknabrock,,,,badger,word:ie_nabrock,probable,kept,,locality,Northern Ireland,Northern Ireland,-7.266808,54.847794
+node/673687981,Low Brock Crags,,,,badger,modern:en_brock,probable,kept,,locality,Cumbria,England,-2.885818,54.549486
+node/7890511161,Slievenabrock,,,,badger,word:ie_nabrock,probable,kept,,peak,Northern Ireland,Northern Ireland,-5.939053,54.203155
+node/700340977,Upper Brockholes,,,,badger,named:Brockholes,certain,kept,,hamlet,West Yorkshire,England,-1.898453,53.762977
+node/29402827,Bevercotes,,,,beaver,named:Bevercotes,certain,kept,,hamlet,Nottinghamshire,England,-0.954697,53.2459
+node/25990518,Beverley,,,,beaver,named:Beverley,certain,kept,,town,East Riding of Yorkshire,England,-0.431568,53.842549
+node/2310909391,Beversbrook,,,,beaver,named:Beversbrook,probable,kept,,hamlet,Wiltshire,England,-1.989912,51.460113
+node/2444393889,Bad an Tuirc,,,,boar,word:gd_torc,certain,kept,,peak,Perth and Kinross,Scotland,-3.607808,56.785839
+node/4947108423,Barran an Tuirc,,,,boar,word:gd_torc,certain,kept,,farm,Argyll and Bute,Scotland,-5.022351,56.417014
+node/523461897,Beinn an Tuirc,,,,boar,word:gd_torc,certain,kept,,peak,Argyll and Bute,Scotland,-5.567242,55.566503
+node/2396425286,Brig o' Turk,,Drochaid Tuirc,,boar,word:gd_torc,certain,kept,,hamlet,Stirling,Scotland,-4.362475,56.229672
+node/13414810902,Clach an Tuirc,,,,boar,word:gd_torc,certain,kept,,isolated_dwelling,Perth and Kinross,Scotland,-4.082087,56.579174
+node/7385722526,Coire Allt an Tuirc,,,,boar,word:gd_torc,certain,kept,,locality,Highland,Scotland,-5.224557,57.248618
+node/998354131,Cruach Tuirc,,,,boar,word:gd_torc,certain,kept,,peak,Argyll and Bute,Scotland,-4.868283,56.291189
+node/487767398,Càrn an Tuirc,,,,boar,word:gd_torc,certain,kept,,peak,Aberdeenshire,Scotland,-3.357672,56.908173
+node/13993386470,Càrr Feith Thuirc,,,,boar,word:gd_torc,certain,kept,,locality,Perth and Kinross,Scotland,-3.89446,56.841731
+node/6991631471,Druim Torc-choire,,,,boar,word:gd_torc,certain,kept,,locality,Highland,Scotland,-5.547753,57.042831
+node/26568770,Everdon,,,,boar,named:Everdon,probable,kept,,village,Northamptonshire,England,-1.130958,52.212447
+node/29358880,Eversholt,,,,boar,named:Eversholt,probable,kept,,village,Bedfordshire,England,-0.570618,51.983113
+node/210992347,Evershot,,,,boar,named:Evershot,probable,kept,,village,Dorset,England,-2.60567,50.838595
+node/3308066982,Eversley,,,,boar,named:Eversley,certain,kept,,village,Hampshire,England,-0.888094,51.353332
+node/26568798,Little Everdon,,,,boar,named:Everdon,probable,kept,,hamlet,Northamptonshire,England,-1.13082,52.218103
+node/2715399232,Meall an Tuirc,,,,boar,word:gd_torc,certain,kept,,peak,Highland,Scotland,-4.452902,57.720278
+node/2332064609,Tobar an Tuirc,,,,boar,word:gd_torc,certain,kept,,spring,Highland,Scotland,-5.350294,57.228407
+node/2269814395,Tom an Tuirc,,,,boar,word:gd_torc,certain,kept,,locality,Perth and Kinross,Scotland,-4.571109,56.705596
+node/6991631470,Torc-choire,,,,boar,word:gd_torc,certain,kept,,locality,Highland,Scotland,-5.554404,57.036317
+node/291820003,Torinturk,,Tòrr an Tuirc,,boar,word:gd_torc,certain,kept,,hamlet,Argyll and Bute,Scotland,-5.492749,55.823113
+node/2467367231,Torr an Tuirc,,,,boar,word:gd_torc,certain,kept,,peak,Argyll and Bute,Scotland,-5.326221,55.890926
+node/9860052653,White Boar Well,,,,boar,modern:en_boar,probable,kept,,spring,Cumbria,England,-2.333791,54.330729
+node/29535848,Wild Boar Fell,,,,boar,modern:en_boar,probable,kept,,peak,Cumbria,England,-2.374148,54.384099
+node/14107176637,Wild Boar Fell East Top,,,,boar,modern:en_boar,probable,kept,,peak,Cumbria,England,-2.368629,54.381691
+node/294035537,Wildboarclough,,,,boar,named:Wildboarclough,certain,kept,,hamlet,Cheshire,England,-2.025722,53.216178
+node/9713548,Cranborne,,,,crane,named:Cranborne,certain,kept,,village,Dorset,England,-1.921833,50.918823
+node/3501052178,Cranbourne,,,,crane,named:Cranbourne,probable,kept,,village,Berkshire,England,-0.665299,51.442801
+node/24361744,Cranbrook,,,,crane,named:Cranbrook,certain,kept,,town,Kent,England,0.532109,51.096546
+node/149693337,Cranbrook Common,,,,crane,named:Cranbrook,certain,kept,,hamlet,Kent,England,0.554823,51.11562
+node/8179060048,Crane Dale,,,,crane,modern:en_crane,probable,kept,,locality,North Yorkshire,England,-0.948187,54.586401
+node/5232388497,Crane Hill,,,,crane,modern:en_crane,probable,kept,,locality,Durham,England,-2.102481,54.515071
+node/2001777155,Crane Hill,,,,crane,modern:en_crane,probable,kept,,peak,Devon,England,-3.944551,50.504188
+node/294967928,Crane Hill,,,,crane,modern:en_crane,probable,kept,,peak,Gloucestershire,England,-2.057557,51.974955
+node/247489377,Crane Moor,,,,crane,modern:en_crane,probable,kept,,village,South Yorkshire,England,-1.539986,53.509147
+node/6844039610,Crane Moor Nook,,,,crane,modern:en_crane,probable,kept,,hamlet,South Yorkshire,England,-1.551685,53.504476
+node/334871688,Crane Moss,,,,crane,modern:en_crane,probable,kept,,locality,Northumberland,England,-2.140492,55.32454
+node/12256433199,Crane Rock,,,,crane,modern:en_crane,probable,kept,,locality,Argyll and Bute,Scotland,-4.777405,56.002315
+node/8179060049,Cranedale Spout,,,,crane,modern:en_crane,probable,kept,,locality,North Yorkshire,England,-0.952219,54.58598
+node/9924667955,Cranehill Copse,,,,crane,modern:en_crane,probable,kept,,locality,Oxfordshire,England,-1.50977,51.865615
+node/9061841339,Cranes Moor,,,,crane,modern:en_crane,probable,kept,,locality,Hampshire,England,-1.727913,50.82477
+node/12722785,Cranfield,,,,crane,named:Cranfield,certain,kept,,village,Bedfordshire,England,-0.607932,52.06902
+node/59842030,Cranford,,,,crane,named:Cranford,certain,kept,,suburb,Greater London,England,-0.41066,51.479596
+node/10723911252,Cranford St. Andrew,,,,crane,named:Cranford,certain,kept,,village,Northamptonshire,England,-0.64839,52.387228
+node/418438449,Cranford St. John,,,,crane,named:Cranford,certain,kept,,village,Northamptonshire,England,-0.63984,52.383141
+node/32199479,Cranleigh,,,,crane,named:Cranleigh,certain,kept,,village,Surrey,England,-0.486579,51.140759
+node/5551448993,Cranmore,,,,crane,named:Cranmore,certain,kept,,village,Somerset,England,-2.475003,51.18813
+node/2377821774,Cranshaws,,,,crane,named:Cranshaws,probable,kept,,hamlet,Scottish Borders,Scotland,-2.495093,55.84948
+node/60571795,Cranwell,,,,crane,named:Cranwell,certain,kept,,village,Lincolnshire,England,-0.462903,53.037565
+node/66729250,East Cranmore,,,,crane,named:Cranmore,certain,kept,,village,Somerset,England,-2.457569,51.19404
+node/994915300,Far Cranehow Bottom,,,,crane,modern:en_crane,probable,kept,,locality,North Yorkshire,England,-1.898867,54.347791
+node/4396322887,Great Cransley,,,,crane,named:Cransley,probable,kept,,village,Northamptonshire,England,-0.782478,52.382916
+node/4396322863,Little Cransley,,,,crane,named:Cransley,probable,kept,,hamlet,Northamptonshire,England,-0.773617,52.378438
+node/388570540,Low Cranecleugh,,,,crane,modern:en_crane,probable,kept,,locality,Northumberland,England,-2.531068,55.165227
+node/102537148,Lower Tranmere,,,,crane,named:Tranmere,certain,kept,,suburb,Merseyside,England,-3.011689,53.382417
+node/1675035860,South Tranmere,,,,crane,named:Tranmere,certain,kept,,suburb,Merseyside,England,-3.007135,53.37539
+node/10051343270,An Eilid,,,,deer,word:gd_fiadh,certain,kept,,peak,Highland,Scotland,-5.469382,57.888352
+node/10585112051,Anaheilt,,Àth na h-Èilde,,deer,word:gd_fiadh,certain,kept,,hamlet,Highland,Scotland,-5.571213,56.704504
+node/3598758546,Braich-Yr-Hydd,,,,deer,word:cy_carw,certain,kept,,peak,Mid Glamorgan,Wales,-3.558106,51.639284
+node/9194514325,Camas an Fhèidh,,,,deer,word:gd_fiadh,certain,kept,,bay,Highland,Scotland,-5.415214,58.051496
+node/52251664,Clonea,,,Cluain Fhia,deer,word:ga_fia,certain,kept,,village,,Ireland,-7.435935,52.278011
+node/3626920555,Cnoc na h-Eilde,,,,deer,word:gd_fiadh,certain,kept,,peak,Argyll and Bute,Scotland,-5.615881,55.882702
+node/8419290464,Cnwc yr Hydd,,,,deer,word:cy_carw,certain,kept,,locality,Dyfed,Wales,-4.792911,51.9754
+node/1211255223,Coir' Eilde,,,,deer,word:gd_fiadh,certain,kept,,locality,Highland,Scotland,-5.004952,56.638087
+node/1211255223,Coir' Eilde,,,,deer,word:gd_fiadh,certain,kept,,valley,Highland,Scotland,-5.004952,56.638087
+node/3536168179,Creag Eilid,,,,deer,word:gd_fiadh,certain,kept,,peak,Perth and Kinross,Scotland,-3.759279,56.629267
+node/2439051415,Creag nam Fiadh,,,,deer,word:gd_fiadh,certain,kept,,peak,Highland,Scotland,-3.972679,58.187352
+node/294062073,Creag nam Fiadh Mòr,,,,deer,word:gd_fiadh,certain,kept,,peak,Argyll and Bute,Scotland,-5.851699,55.961941
+node/6983801830,Creag nan Eilid,,,,deer,word:gd_fiadh,certain,kept,,peak,Highland,Scotland,-5.304508,57.312942
+node/3626681846,Cruach nam Fiadh,,,,deer,word:gd_fiadh,certain,kept,,peak,Argyll and Bute,Scotland,-5.524065,56.011484
+node/3626970276,Cruach nam Fiadh,,,,deer,word:gd_fiadh,certain,kept,,peak,Argyll and Bute,Scotland,-5.475656,55.754557
+node/3631628991,Cruach nam Fiadh,,,,deer,word:gd_fiadh,certain,kept,,peak,Argyll and Bute,Scotland,-5.627582,55.931458
+node/2415676780,Càrn nam Fiadh,,,,deer,word:gd_fiadh,certain,kept,,peak,Highland,Scotland,-5.600275,57.409973
+node/29081986,Darley,,,,deer,named:Darley,probable,kept,,village,North Yorkshire,England,-1.694269,54.032519
+node/1617177787,Darley Abbey,,,,deer,named:Darley,probable,kept,"certainty set in review: Darley Abbey, Derby: the Derbyshire Darley",suburb,Derbyshire,England,-1.478009,52.942353
+node/3030027980,Darley Dale,,,,deer,named:Darley,probable,kept,,town,Derbyshire,England,-1.589604,53.162269
+node/29270474,Dearham,,,,deer,named:Dearham,probable,kept,,village,Cumbria,England,-3.444457,54.709467
+node/10294064671,Deer Hill,,,,deer,modern:en_hart,probable,kept,,hamlet,West Yorkshire,England,-1.926271,53.59832
+node/369692843,Deer Hill,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-2.515749,55.052493
+node/12670882696,Deer Hill,,,,deer,modern:en_hart,probable,kept,,hill,West Yorkshire,England,-1.896762,53.594012
+node/13546056751,Deer Hill,,,,deer,modern:en_hart,probable,kept,,peak,West Lothian,Scotland,-3.543066,55.915221
+node/5011273266,Deer Hills,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-3.067677,54.716426
+node/11467267506,Deer Hope,,,,deer,modern:en_hart,probable,kept,,locality,Scottish Borders,Scotland,-3.364485,55.808178
+node/2268194750,Deer Law,,,,deer,modern:en_hart,probable,kept,,locality,Northumberland,England,-2.3259,54.867619
+node/3610808639,Deer Law,,,,deer,modern:en_hart,probable,kept,,peak,Scottish Borders,Scotland,-3.23227,55.517434
+node/1891728585,Deer Play,,,,deer,modern:en_hart,probable,kept,,locality,Northumberland,England,-2.24776,55.208199
+node/414994366,Deer Play,,,,deer,modern:en_hart,probable,kept,,locality,Northumberland,England,-2.251112,55.206188
+node/287035635,Deer Rock Hill,,,,deer,modern:en_hart,probable,kept,,peak,Surrey,England,-0.732359,51.361803
+node/328239295,Deerhurst,,,,deer,named:Deerhurst,certain,kept,,village,Gloucestershire,England,-2.18832,51.965539
+node/319320819,Deerlea Knowe,,,,deer,modern:en_hart,probable,kept,,locality,Scottish Borders,Scotland,-2.442949,55.37087
+node/27516168,Deerstones,,,,deer,modern:en_hart,probable,kept,,hamlet,North Yorkshire,England,-1.866831,53.972741
+node/10298029847,Durley,,,,deer,named:Durley,certain,kept,,village,Hampshire,England,-1.267249,50.947014
+node/188684797,Dyrham,,,,deer,named:Dyrham,certain,kept,,village,Gloucestershire,England,-2.379969,51.481944
+node/299559436,East Hartford,,,,deer,named:Hartford,probable,kept,,village,Northumberland,England,-1.581195,55.106156
+node/1913941039,East Harts Hill,,,,deer,modern:en_hart,probable,kept,,peak,North Yorkshire,England,-2.004596,54.000302
+node/1517949877,Feadab ab Fheidh,,,,deer,word:gd_fiadh,certain,kept,,locality,Argyll and Bute,Scotland,-5.808417,56.079353
+node/1779255293,Feadan an Fheidh,,,,deer,word:gd_fiadh,certain,kept,,locality,Argyll and Bute,Scotland,-5.889748,56.036183
+node/11336958111,Gallt-y-carw,,,,deer,word:cy_carw,certain,kept,,isolated_dwelling,Gwynedd,Wales,-3.842104,52.777332
+node/9942477606,Gualann nam Fiadh,,,,deer,word:gd_fiadh,certain,kept,,locality,Highland,Scotland,-6.01877,57.249105
+node/5103049942,Hart Crag,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-2.84619,54.446687
+node/29728747,Hart Crag,,,,deer,modern:en_hart,probable,kept,,peak,Cumbria,England,-2.976915,54.492717
+node/2089943270,Hart Crags,,,,deer,modern:en_hart,probable,kept,,locality,Northumberland,England,-2.34828,55.149108
+node/1527336041,Hart Fell,,,,deer,modern:en_hart,probable,kept,,peak,Dumfries and Galloway,Scotland,-3.401385,55.408057
+node/3546857860,Hart Fell,,,,deer,modern:en_hart,probable,kept,,peak,Dumfries and Galloway,Scotland,-3.210534,55.188589
+node/2104740566,Hart Heugh,,,,deer,modern:en_hart,probable,kept,,peak,Northumberland,England,-2.05226,55.52361
+node/12170543990,Hart Hill,,,,deer,modern:en_hart,probable,kept,,locality,Hampshire,England,-1.39142,50.851418
+node/4999896714,Hart Hill,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-2.833041,54.557988
+node/906912656,Hart Hill,,,,deer,modern:en_hart,probable,kept,,locality,Wiltshire,England,-2.232206,51.180942
+node/2328686234,Hart Hill,,,,deer,modern:en_hart,probable,kept,,peak,Cheshire,England,-2.747055,53.091138
+node/2682263045,Hart Hill,,,,deer,modern:en_hart,probable,kept,,peak,Stirling,Scotland,-4.095069,56.070689
+node/2794229896,Hart Hill,,,,deer,modern:en_hart,probable,kept,,peak,Moray,Scotland,-3.281141,57.571648
+node/2997999733,Hart Hill,,,,deer,modern:en_hart,probable,kept,,peak,Hampshire,England,-1.629862,50.891138
+node/538536220,Hart Hill,,,,deer,modern:en_hart,probable,kept,,peak,South Lanarkshire,Scotland,-4.216444,55.558547
+node/5582069631,Hart Hill,,,,deer,modern:en_hart,probable,kept,,peak,Hampshire,England,-1.747985,50.931493
+node/571719637,Hart Hill,,,,deer,modern:en_hart,probable,kept,,peak,Gloucestershire,England,-2.644905,51.72318
+node/7169657109,Hart Hill,,,,deer,modern:en_hart,probable,kept,,hill,West Yorkshire,England,-1.626509,53.760817
+node/943599101,Hart Hill,,,,deer,modern:en_hart,probable,kept,,peak,East Dunbartonshire,Scotland,-4.245066,56.016161
+node/10087853912,Hart Hill Down,,,,deer,modern:en_hart,probable,kept,,locality,Hampshire,England,-1.482538,51.326712
+node/10087853911,Hart Hill Down,,,,deer,modern:en_hart,probable,kept,,peak,Hampshire,England,-1.48601,51.324598
+node/2643900157,Hart Holes,,,,deer,modern:en_hart,probable,kept,,locality,Northumberland,England,-2.465739,55.149788
+node/4887979704,Hart How,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-3.166086,54.443818
+node/11920667755,Hart Howe,,,,deer,modern:en_hart,probable,kept,,peak,Cumbria,England,-2.862627,54.338466
+node/334869365,Hart Law,,,,deer,modern:en_hart,probable,kept,,peak,Northumberland,England,-2.021084,55.409318
+node/2154570889,Hart Side,,,,deer,modern:en_hart,probable,kept,,locality,Northumberland,England,-2.120299,55.185962
+node/4433287379,Hart Side,,,,deer,modern:en_hart,probable,kept,,peak,Cumbria,England,-2.992944,54.568723
+node/3009441101,Hart Tor,,,,deer,modern:en_hart,probable,kept,,peak,Devon,England,-3.982558,50.703148
+node/325992944,Hart Tor,,,,deer,modern:en_hart,probable,kept,,peak,Devon,England,-4.003398,50.530643
+node/307729376,Hartburn,,,,deer,named:Hartburn,probable,kept,,hamlet,Northumberland,England,-1.861104,55.168865
+node/426738984,Harter Fell,,,,deer,modern:en_harter,probable,kept,,locality,Durham,England,-2.118367,54.611246
+node/29537120,Harter Fell,,,,deer,modern:en_harter,probable,kept,,peak,Durham,England,-2.113332,54.609202
+node/29877478,Harter Fell,,,,deer,modern:en_harter,probable,kept,,peak,Cumbria,England,-3.204553,54.386912
+node/560046355,Harter Fell,,,,deer,modern:en_harter,probable,kept,,peak,Cumbria,England,-2.835336,54.47642
+node/8973824352,Harter Fell,,,,deer,modern:en_harter,probable,kept,,peak,Cumbria,England,-2.431144,54.396811
+node/5000000613,Harter Fell Gully,,,,deer,modern:en_harter,probable,kept,,locality,Cumbria,England,-2.824517,54.480723
+node/9395518939,Hartfell Spa,,,,deer,modern:en_hart,probable,kept,,spring,Dumfries and Galloway,Scotland,-3.427442,55.38967
+node/2200484220,Hartfield,,,,deer,named:Hartfield,certain,kept,,village,East Sussex,England,0.110832,51.102194
+node/1233351990,Hartford,,,,deer,named:Hartford,probable,kept,,village,Cambridgeshire,England,-0.160413,52.338087
+node/30024128,Hartford,,,,deer,named:Hartford,probable,kept,,village,Cheshire,England,-2.547668,53.24384
+node/29418328,Harthill,,,,deer,named:Harthill,probable,kept,,village,South Yorkshire,England,-1.259496,53.320577
+node/32583675,Harthill,,,,deer,named:Harthill,probable,kept,,village,Cheshire,England,-2.745937,53.092202
+node/93939435,Harthill,,,,deer,named:Harthill,probable,kept,,village,North Lanarkshire,Scotland,-3.749031,55.860377
+node/773487911,Harthill Cock,,,,deer,modern:en_hart,probable,kept,,locality,West Yorkshire,England,-1.813763,53.877009
+node/8542070062,Harthill Moor,,,,deer,modern:en_hart,probable,kept,,peak,Derbyshire,England,-1.687672,53.161183
+node/255009837,Harthope Bank,,,,deer,modern:en_hart,probable,kept,,peak,Dumfries and Galloway,Scotland,-3.531653,55.387221
+node/1768059908,Harthope Linn,,,,deer,modern:en_hart,probable,kept,,locality,Northumberland,England,-2.115735,55.475893
+node/1911608856,Hartleap Knowe,,,,deer,modern:en_hart,probable,kept,,peak,Scottish Borders,Scotland,-3.141317,55.472738
+node/20958718,Hartlepool,,,,deer,named:Hartlepool,certain,kept,,town,Durham,England,-1.20937,54.685728
+node/1629899018,Hartley,,,,deer,named:Hartley,probable,kept,,suburb,Devon,England,-4.133529,50.396378
+node/29175347,Hartley,,,,deer,named:Hartley,probable,kept,,village,Kent,England,0.30774,51.38334
+node/30749861,Hartley,,,,deer,named:Hartley,probable,kept,,village,Cumbria,England,-2.336301,54.473529
+node/30933391,Hartley,,,,deer,named:Hartley,probable,kept,,village,Kent,England,0.510526,51.083585
+node/10252834448,Hartley Birkett,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-2.310132,54.466169
+node/8294636440,Hartley Bottom,,,,deer,modern:en_hart,probable,kept,,locality,Gloucestershire,England,-2.060344,51.852666
+node/427993983,Hartley Hill,,,,deer,modern:en_hart,probable,kept,,peak,Gloucestershire,England,-2.063519,51.863689
+node/2973111780,Hartley Mauditt,,,,deer,named:Hartley,probable,kept,,hamlet,Hampshire,England,-0.939577,51.120712
+node/323134227,Hartley Moor Top,,,,deer,modern:en_hart,probable,kept,,peak,Northumberland,England,-2.283604,54.82815
+node/1589615926,Hartley Wespall,,,,deer,named:Hartley,probable,kept,,hamlet,Hampshire,England,-1.000692,51.316119
+node/1600203576,Hartley Wintney,,,,deer,named:Hartley Wintney,certain,kept,,village,Hampshire,England,-0.899714,51.306153
+node/6330202985,Hartridge,,,,deer,modern:en_hart,probable,kept,,locality,Devon,England,-3.167721,50.848267
+node/12523533576,Hartrigg,,,,deer,modern:en_hart,probable,kept,,hamlet,Cumbria,England,-2.838973,54.446831
+node/758948616,Harts Hill,,,,deer,modern:en_hart,probable,kept,,peak,Warwickshire,England,-1.418037,52.163531
+node/59005629,Hartshead,,,,deer,named:Hartshead,probable,kept,,village,West Yorkshire,England,-1.721162,53.70082
+node/59005630,Hartshead Moor,,,,deer,named:Hartshead,probable,kept,,village,West Yorkshire,England,-1.741345,53.718923
+node/10831998788,Hartshead Pike,,,,deer,modern:en_hart,probable,kept,,peak,Greater Manchester,England,-2.061265,53.518804
+node/30133240,Hartshorne,,,,deer,named:Hartshorne,probable,kept,,village,Derbyshire,England,-1.520887,52.787661
+node/418322726,Hartside Cross,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-2.548511,54.769804
+node/418322723,Hartside Height,,,,deer,modern:en_hart,probable,kept,,peak,Cumbria,England,-2.544453,54.777463
+node/317045304,Hartside Hill,,,,deer,modern:en_hart,probable,kept,,locality,Northumberland,England,-2.023089,55.435805
+node/2195181680,Hartside Hill,,,,deer,modern:en_hart,probable,kept,,peak,Scottish Borders,Scotland,-2.881626,55.778523
+node/29540906,Hartsop,,,,deer,named:Hartsop,certain,kept,,hamlet,Cumbria,England,-2.915926,54.510128
+node/29728745,Hartsop Above How,,,,deer,modern:en_harter,probable,kept,,peak,Cumbria,England,-2.953909,54.499604
+node/560045854,Hartsop Dodd,,,,deer,modern:en_harter,probable,kept,,peak,Cumbria,England,-2.910435,54.498544
+node/492831048,Hartswell,,,,deer,modern:en_hart,probable,kept,,hamlet,Somerset,England,-3.311938,51.037049
+node/149220868,Hartwell,,,,deer,named:Hartwell,probable,kept,,village,Northamptonshire,England,-0.84966,52.147653
+node/258668011,Hartwell,,,,deer,named:Hartwell,probable,kept,,hamlet,Buckinghamshire,England,-0.855017,51.805355
+node/646824982,Hartwell,,,,deer,modern:en_hart,probable,kept,,hamlet,Staffordshire,England,-2.122587,52.949981
+node/13381261830,Hartwell Heights,,,,deer,modern:en_hart,probable,kept,,peak,Northamptonshire,England,-0.842872,52.152776
+node/1839654633,Hartwood,,Coille an Daimh,,deer,modern:en_hart,probable,kept,,village,North Lanarkshire,Scotland,-3.838203,55.81083
+node/2856798892,Hartwood Hill,,,,deer,modern:en_hart,probable,kept,,peak,Dumfries and Galloway,Scotland,-3.462024,55.096358
+node/3614789138,Hartwood Hill,,,,deer,modern:en_hart,probable,kept,,peak,South Lanarkshire,Scotland,-3.916884,55.496462
+node/26282862,Hertford,,,,deer,named:Hertford,certain,kept,,town,Hertfordshire,England,-0.078521,51.795741
+node/60474358,Hertford Heath,,,,deer,named:Hertford,certain,kept,,village,Hertfordshire,England,-0.045327,51.782641
+node/560114944,High Hartsop Dodd,,,,deer,modern:en_harter,probable,kept,,peak,Cumbria,England,-2.937697,54.48861
+node/4891868822,Hind Cove,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-3.272627,54.498133
+node/4996578945,Hind Crag,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-2.920933,54.577059
+node/9280829046,Hind Knowe,,,,deer,modern:en_hart,probable,kept,,locality,Scottish Borders,Scotland,-2.843068,55.274125
+node/4885763521,Hind Side,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-3.174205,54.480922
+node/4898831577,Hindhaugh,,,,deer,modern:en_hart,probable,kept,,locality,Angus,Scotland,-2.976529,56.770298
+node/262738,Hindhead,,,,deer,named:Hindhead,certain,kept,,village,Surrey,England,-0.733266,51.113299
+node/8035839477,Hindhole Spring,,,,deer,modern:en_hart,probable,kept,,spring,Lancashire,England,-2.666889,54.017298
+node/3643164455,Hindholes Clough,,,,deer,modern:en_hart,probable,kept,,locality,South Yorkshire,England,-1.741436,53.443004
+node/1959351858,Hindhope Hill,,,,deer,modern:en_hart,probable,kept,,peak,Scottish Borders,Scotland,-2.367731,55.394758
+node/414994130,Hindhope Law,,,,deer,modern:en_hart,probable,kept,,locality,Northumberland,England,-2.367338,55.270369
+node/1959351862,Hindhope Law,,,,deer,modern:en_hart,probable,kept,,peak,Scottish Borders,Scotland,-2.358392,55.380621
+node/1186425521,Hindleap Warren,,,,deer,modern:en_hart,probable,kept,,locality,East Sussex,England,0.015452,51.076292
+node/27329910,Hindley,,,,deer,named:Hindley,certain,kept,,town,Greater Manchester,England,-2.577821,53.53353
+node/30138890,Hindley Green,,,,deer,named:Hindley,certain,kept,,suburb,Greater Manchester,England,-2.548843,53.523975
+node/1668146448,Hindley Hall,,,,deer,modern:en_hart,probable,kept,,hamlet,Northumberland,England,-1.924151,54.929213
+node/2142489570,Hindside Hill,,,,deer,modern:en_hart,probable,kept,,peak,Scottish Borders,Scotland,-2.634373,55.717332
+node/319272185,Hindside Knowe,,,,deer,modern:en_hart,probable,kept,,locality,Northumberland,England,-2.245465,55.401663
+node/1211256244,Lairig Eilde,,,,deer,word:gd_fiadh,certain,kept,,locality,Highland,Scotland,-4.984272,56.6415
+node/7128211703,Little Hart Crag,,,,deer,modern:en_hart,probable,kept,,peak,Cumbria,England,-2.947185,54.481905
+node/8973824363,Little Harter Fell,,,,deer,modern:en_harter,probable,kept,,locality,Cumbria,England,-2.434264,54.40145
+node/5000074305,Little Harter Fell,,,,deer,modern:en_harter,probable,kept,,peak,Cumbria,England,-2.821093,54.477579
+node/7822860014,Lon an Fheidh,,,,deer,word:gd_fiadh,certain,kept,,locality,Na h-Eileanan Siar,Scotland,-6.792424,57.844291
+node/6231015432,Mainnir nam Fiadh,,,,deer,word:gd_fiadh,certain,kept,,peak,Argyll and Bute,Scotland,-5.773217,56.452917
+node/957522782,Maol am Fheidh,,,,deer,word:gd_fiadh,certain,kept,,peak,Argyll and Bute,Scotland,-4.792581,56.101861
+node/6281399241,Meall an Fheidh,,,,deer,word:gd_fiadh,certain,kept,,peak,Highland,Scotland,-5.360041,56.806095
+node/2704171910,Meall na h-Eilde,,,,deer,word:gd_fiadh,certain,kept,,peak,Highland,Scotland,-4.990536,57.008868
+node/13936656623,Meall nam Fiadh,,,,deer,word:gd_fiadh,certain,kept,,peak,Perth and Kinross,Scotland,-4.58459,56.752038
+node/3470465398,Moel Yr Ewig,,,,deer,word:cy_carw,certain,kept,,peak,Powys,Wales,-3.367274,52.875585
+node/51245392,Moel-yr-hydd,,,,deer,word:cy_carw,certain,kept,,peak,Gwynedd,Wales,-3.979682,52.98967
+node/1995357088,Nether Hindhope,,,,deer,modern:en_hart,probable,kept,,hamlet,Scottish Borders,Scotland,-2.373524,55.387659
+node/308897086,New Hartley,,,,deer,named:Hartley,probable,kept,,village,Northumberland,England,-1.520404,55.084902
+node/467128692,Old Hartley,,,,deer,named:Hartley,probable,kept,,village,Northumberland,England,-1.468018,55.077132
+node/3605262759,Pentre Hydd,,,,deer,word:cy_carw,certain,kept,,peak,Dyfed,Wales,-4.350106,51.859856
+node/5134103356,Pont Rhyd-yr-hydd,,,,deer,word:cy_carw,certain,kept,,locality,Clwyd,Wales,-3.380627,52.921317
+node/4799469990,Port an Fhèidh,,,,deer,word:gd_fiadh,certain,kept,,bay,Argyll and Bute,Scotland,-6.596905,56.582927
+node/2108820737,Sgaraman nam Fiadh,,,,deer,word:gd_fiadh,certain,kept,,peak,Highland,Scotland,-4.294504,57.126722
+node/532149816,Sgor Eilde Beag,,,,deer,word:gd_fiadh,certain,kept,,peak,Highland,Scotland,-4.912925,56.745132
+node/255378339,Sgùrr Eilde Mòr,,,,deer,word:gd_fiadh,certain,kept,,peak,Highland,Scotland,-4.895428,56.749971
+node/2195181708,South Hart Law,,,,deer,modern:en_hart,probable,kept,,peak,Scottish Borders,Scotland,-2.715132,55.807703
+node/246655626,Stag Hill,,,,deer,modern:en_hart,probable,kept,,peak,Surrey,England,-0.589718,51.241163
+node/1599628171,Stagden Cross,,,,deer,modern:en_hart,probable,kept,,hamlet,Essex,England,0.373516,51.808699
+node/10671975994,Stags Fell,,,,deer,modern:en_hart,probable,kept,,locality,North Yorkshire,England,-2.154937,54.350653
+node/53662291,Stagsden,,,,deer,modern:en_hart,probable,kept,,village,Bedfordshire,England,-0.566725,52.130935
+node/128914644,Stagsden West End,,,,deer,modern:en_hart,probable,kept,,hamlet,Bedfordshire,England,-0.57134,52.122028
+node/1761233423,Stagstones,,,,deer,modern:en_hart,probable,kept,,locality,Cumbria,England,-2.726127,54.678093
+node/2807553724,Tom na h-Eilde,,,,deer,word:gd_fiadh,certain,kept,,peak,Highland,Scotland,-5.804967,56.728529
+node/52257817,Tír an Fhia,,,Tír an Fhia,deer,word:ga_fia,certain,kept,,village,,Ireland,-9.662721,53.270544
+node/1186277830,Upper Hartfield,,,,deer,named:Hartfield,certain,kept,,village,East Sussex,England,0.08879,51.089751
+node/1995357090,Upper Hindhope,,,,deer,modern:en_hart,probable,kept,,hamlet,Scottish Borders,Scotland,-2.378753,55.382207
+node/1913941038,West Harts Hill,,,,deer,modern:en_hart,probable,kept,,peak,North Yorkshire,England,-2.013909,54.00121
+node/29750144,Allt yr Eryr,,,,eagle,word:cy_eryr,certain,kept,,peak,Powys,Wales,-3.546175,52.797392
+node/27362788,Arncliffe,,,,eagle,named:Arncliffe,certain,kept,,village,North Yorkshire,England,-2.105976,54.142154
+node/27008717,Arnold,,,,eagle,named:Arnold,certain,kept,,town,Nottinghamshire,England,-1.125553,53.00526
+node/56107257,Arnold,,,,eagle,named:Arnold,probable,kept,,hamlet,East Riding of Yorkshire,England,-0.286999,53.856206
+node/6042151090,Baile na h-Iolaire,,Baile na h-Iolaire,,eagle,word:gd_iolair,certain,kept,,hamlet,Na h-Eileanan Siar,Scotland,-6.218474,58.194255
+node/2794202143,Beinn na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-4.01498,57.386295
+node/559456103,Beinn na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-6.006138,57.479108
+node/9458768996,Beinn na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-5.972296,57.566337
+node/2415158467,Bidein Bad na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-5.087779,56.79044
+node/3631552851,Bàrr na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Argyll and Bute,Scotland,-5.657963,56.009465
+node/2793304005,Carn na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Moray,Scotland,-3.295596,57.29945
+node/3573386793,Carreg yr Eryr,,,,eagle,word:cy_eryr,certain,kept,,peak,Gwynedd,Wales,-4.194592,52.917892
+node/13742282644,Cnoc na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,locality,Na h-Eileanan Siar,Scotland,-6.4268,58.144464
+node/12202273718,Cnoc na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Na h-Eileanan Siar,Scotland,-6.224198,58.188597
+node/4140598709,Cnoc na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Argyll and Bute,Scotland,-5.804383,56.007454
+node/6378924027,Cnoc na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,cliff,Highland,Scotland,-6.423339,57.290424
+node/12228575459,Creag na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-4.45221,57.32298
+node/2689679397,Creag na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-4.26052,58.228631
+node/6280774998,Creag na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-3.867381,57.189322
+node/9915516120,Creag na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Angus,Scotland,-2.869803,56.948941
+node/9937726816,Creag na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-4.925077,57.331282
+node/12228575457,Càrn na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-4.680646,57.236518
+node/29766660,Eagle Crag,,,,eagle,modern:en_eagle,probable,kept,,peak,Cumbria,England,-3.12048,54.499081
+node/11139195027,Eagle Hill,,,,eagle,modern:en_eagle,probable,kept,,hill,Northern Ireland,Northern Ireland,-5.628604,54.443528
+node/3454224112,Eagle Hill,,,,eagle,modern:en_eagle,probable,kept,,peak,Northern Ireland,Northern Ireland,-6.855669,55.158093
+node/6288528626,Eagle Tor,,,,eagle,modern:en_eagle,probable,kept,,peak,Derbyshire,England,-1.653824,53.155144
+node/8595829353,Eagle's Nest,,,,eagle,modern:en_eagle,probable,kept,,locality,Kent,England,1.21982,51.100882
+node/3697432098,Eagles Rock,,,,eagle,modern:en_eagle,probable,kept,,locality,Northern Ireland,Northern Ireland,-6.906543,54.697051
+node/2436966830,Eagles Rock,,,,eagle,modern:en_eagle,probable,kept,,peak,Aberdeenshire,Scotland,-3.254097,56.938393
+node/2338075511,Earnley,,,,eagle,named:Earnley,certain,kept,,village,West Sussex,England,-0.845085,50.766654
+node/1629908313,Ernesettle,,,,eagle,named:Ernesettle,probable,kept,,suburb,Devon,England,-4.179749,50.419872
+node/101420643,Foel Eryr,,,,eagle,word:cy_eryr,certain,kept,,peak,Dyfed,Wales,-4.8161,51.953473
+node/613996098,Meall na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Perth and Kinross,Scotland,-3.868259,56.72655
+node/3186675828,Nead an Iolair,,,Nead an Iolair,eagle,word:ga_iolar,certain,kept,,locality,,Ireland,-8.801984,54.703521
+node/29762187,Pen-yr-eryr,,,,eagle,word:cy_eryr,certain,kept,,peak,Clwyd,Wales,-3.313891,52.905589
+node/3556483472,Sgor na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Aberdeenshire,Scotland,-3.150667,57.025551
+node/2796443206,Sgùrr na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-5.936918,57.110453
+node/653670948,Sròn Coire na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-4.43656,56.801753
+node/13000195971,Sròn na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-6.126108,56.931557
+node/6993714156,Torr na h-Iolaire,,,,eagle,word:gd_iolair,certain,kept,,peak,Highland,Scotland,-5.459948,57.442502
+node/1611360949,Yarnscombe,,,,eagle,named:Yarnscombe,probable,kept,,village,Devon,England,-4.050405,50.993784
+node/2707782171,Auchendinny,,Achadh an t-Sionnaich,,fox,word:gd_sionnach,certain,kept,,village,Midlothian,Scotland,-3.191824,55.846462
+node/9501834045,Bwlch y Llwynog,,,,fox,word:cy_llwynog,certain,kept,,locality,Clwyd,Wales,-3.834274,53.337006
+node/4800852337,Carreg Cadno,,,,fox,word:cy_llwynog,certain,kept,,peak,Powys,Wales,-3.633052,51.8301
+node/10033794515,Cnoc a' Mhadaidh-ruaidh,,,,fox,word:gd_sionnach,certain,kept,,peak,Highland,Scotland,-5.751709,57.266761
+node/1210334864,Coire an t-Sionnaich,,,,fox,word:gd_sionnach,certain,kept,,locality,Highland,Scotland,-4.983281,56.700393
+node/3644425386,Craig Y Llwynog,,,,fox,word:cy_llwynog,certain,kept,,peak,Gwynedd,Wales,-3.597213,52.981322
+node/3614584241,Craig of Todholes,,,,fox,modern:en_fox,probable,kept,,peak,Inverclyde,Scotland,-4.698031,55.847564
+node/1187438320,Craigentinny,,Creag an t-Sionnaich,,fox,word:gd_sionnach,certain,kept,,suburb,City of Edinburgh,Scotland,-3.132947,55.959335
+node/1210334760,Creag an t-Sionnaich,,,,fox,word:gd_sionnach,certain,kept,,locality,Highland,Scotland,-4.98461,56.71193
+node/5062058870,Cwrt-y-cadno,,,,fox,word:cy_llwynog,certain,kept,,hamlet,Dyfed,Wales,-3.910219,52.080774
+node/12215294053,Càrn Loch an t-Sionnaich,,,,fox,word:gd_sionnach,certain,kept,,peak,Highland,Scotland,-4.604825,57.254303
+node/14131535989,Droimín na Sionnach,,,Droimín na Sionnach,fox,word:ga_sionnach,certain,kept,,hamlet,,Ireland,-9.57156,53.330343
+node/2712197705,Druim Shionnach,,,,fox,word:gd_sionnach,certain,kept,,locality,Highland,Scotland,-5.185031,57.134891
+node/255698926,Druim Shionnach,,,,fox,word:gd_sionnach,certain,kept,,peak,Highland,Scotland,-5.182843,57.126805
+node/2732002032,Fox Crag,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.472968,55.213365
+node/10252908930,Fox Crags,,,,fox,modern:en_fox,probable,kept,,locality,Cumbria,England,-2.263632,54.457168
+node/2183427063,Fox Crags,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.401849,55.115909
+node/2795002496,Fox Crags,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.412726,54.902653
+node/4943727032,Fox Crags,,,,fox,modern:en_fox,probable,kept,,locality,Cumbria,England,-3.302859,54.331595
+node/2691983729,Fox Dale,,,,fox,modern:en_fox,probable,kept,,locality,Lincolnshire,England,-0.290956,53.53003
+node/10204964098,Fox Hill,,,,fox,modern:en_fox,probable,kept,,locality,Hampshire,England,-1.551932,50.875008
+node/2339271557,Fox Hill,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-1.657279,55.105447
+node/287041623,Fox Hill,,,,fox,modern:en_fox,probable,kept,,locality,Surrey,England,-0.619598,51.374939
+node/296020595,Fox Hill,,,,fox,modern:en_fox,probable,kept,,locality,Cambridgeshire,England,-0.005225,52.143549
+node/3482964652,Fox Hill,,,,fox,modern:en_fox,probable,kept,,locality,Norfolk,England,1.128275,52.943083
+node/696506637,Fox Hill,,,,fox,modern:en_fox,probable,kept,,locality,Worcestershire,England,-1.879453,52.084958
+node/9810650418,Fox Hill,,,,fox,modern:en_fox,probable,kept,,locality,Dorset,England,-1.87786,50.903834
+node/10024900668,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Moray,Scotland,-3.646972,57.439594
+node/10652763693,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Hertfordshire,England,0.031167,51.964792
+node/11349764012,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Durham,England,-1.515459,54.561982
+node/11845701188,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Northamptonshire,England,-1.166716,52.24486
+node/12628492639,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Hampshire,England,-1.097742,51.36902
+node/296018703,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Cambridgeshire,England,0.162937,52.156907
+node/296020595,Fox Hill,,,,fox,modern:en_fox,probable,kept,,hill,Cambridgeshire,England,-0.005225,52.143549
+node/300045308,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Surrey,England,-0.522942,51.315817
+node/3482972789,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Norfolk,England,1.148474,52.941047
+node/470457614,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Gwent,Wales,-3.08062,51.588984
+node/530774685,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Wiltshire,England,-1.660697,51.530576
+node/8421151336,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Hampshire,England,-1.636512,50.901183
+node/873827728,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Lincolnshire,England,-0.168745,53.145677
+node/9051758625,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Hampshire,England,-1.474879,50.870657
+node/9198294577,Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Hampshire,England,-1.571491,50.888775
+node/272305228,Fox Hill West,,,,fox,modern:en_fox,probable,kept,,peak,Surrey,England,-0.708384,51.268776
+node/13228102334,Fox Hills,,,,fox,modern:en_fox,probable,kept,,locality,North Yorkshire,England,-1.268384,54.119627
+node/272302714,Fox Hills,,,,fox,modern:en_fox,probable,kept,,locality,Surrey,England,-0.693497,51.266441
+node/3501439157,Fox Hills Farm,,,,fox,modern:en_fox,probable,kept,,locality,Surrey,England,-0.542965,51.380122
+node/6061599823,Fox Hole,,,,fox,modern:en_fox,probable,kept,,locality,North Yorkshire,England,-1.019005,54.381138
+node/2317482234,Fox Hole Hill,,,,fox,modern:en_fox,probable,kept,,locality,Cambridgeshire,England,-0.059461,52.414798
+node/4942109660,Fox Hole Wood,,,,fox,modern:en_fox,probable,kept,,wood,Derbyshire,England,-1.472241,52.827214
+node/10255184043,Fox Holes,,,,fox,modern:en_fox,probable,kept,,locality,North Yorkshire,England,-2.242596,54.411429
+node/10255307020,Fox Holes,,,,fox,modern:en_fox,probable,kept,,locality,North Yorkshire,England,-2.235433,54.441781
+node/13233276932,Fox Holes,,,,fox,modern:en_fox,probable,kept,,locality,North Yorkshire,England,-2.46085,54.06023
+node/13236348301,Fox Holes,,,,fox,modern:en_fox,probable,kept,,locality,Lancashire,England,-2.624463,53.950699
+node/1585557666,Fox Holes,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-1.729326,55.535523
+node/2094802890,Fox Holes,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.051145,55.177525
+node/3170610648,Fox Holes,,,,fox,modern:en_fox,probable,kept,,locality,Derbyshire,England,-1.83767,53.380893
+node/6055933336,Fox Holes,,,,fox,modern:en_fox,probable,kept,,locality,North Yorkshire,England,-2.129648,54.113248
+node/897955607,Fox Holes,,,,fox,modern:en_fox,probable,kept,,hamlet,South Yorkshire,England,-1.715818,53.534268
+node/9276043662,Fox Holes,,,,fox,modern:en_fox,probable,kept,,locality,Hampshire,England,-1.618071,50.79566
+node/5279288206,Fox How,,,,fox,modern:en_fox,probable,kept,,locality,Cumbria,England,-2.979877,54.435945
+node/11911098981,Fox How,,,,fox,modern:en_fox,probable,kept,,peak,Cumbria,England,-2.991088,54.434961
+node/2146654182,Fox Knowe,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.210314,55.316211
+node/3643164449,Fox Stones,,,,fox,modern:en_fox,probable,kept,,locality,South Yorkshire,England,-1.681458,53.461943
+node/3643164448,Fox Stones Moss,,,,fox,modern:en_fox,probable,kept,,locality,South Yorkshire,England,-1.682462,53.463551
+node/1622929763,Fox Tor,,,,fox,modern:en_fox,probable,kept,,peak,Cornwall,England,-4.506633,50.580071
+node/329397211,Fox Tor,,,,fox,modern:en_fox,probable,kept,,peak,Devon,England,-3.939157,50.511833
+node/5234604252,Fox Well,,,,fox,modern:en_fox,probable,kept,,locality,North Yorkshire,England,-1.769685,54.476786
+node/11270470366,Fox Wood,,,,fox,modern:en_fox,probable,kept,,locality,North Yorkshire,England,-1.483833,54.013407
+node/7149157925,Fox Wood,,,,fox,modern:en_fox,probable,kept,,wood,Essex,England,0.26418,51.634738
+node/11345943768,Fox's Hill,,,,fox,modern:en_fox,probable,kept,,hamlet,Hampshire,England,-1.592371,50.879107
+node/2927815296,Foxcote,,,,fox,named:Foxcote,probable,kept,,hamlet,Buckinghamshire,England,-0.95688,52.015647
+node/66729261,Foxcote,,,,fox,named:Foxcote,probable,kept,,village,Somerset,England,-2.410351,51.298272
+node/943415859,Foxcote,,,,fox,named:Foxcote,probable,kept,,hamlet,Gloucestershire,England,-1.983283,51.862987
+node/1613588559,Foxearth,,,,fox,named:Foxearth,certain,kept,,village,Essex,England,0.676229,52.070275
+node/2005165179,Foxhall,,,,fox,modern:en_fox2,probable,kept,,hamlet,Hampshire,England,-1.122617,51.21569
+node/2608854154,Foxhall,,,,fox,modern:en_fox2,probable,kept,,hamlet,Northamptonshire,England,-0.853155,52.394096
+node/290737831,Foxhall,,,,fox,named:Foxhall,probable,kept,,hamlet,Suffolk,England,1.237974,52.034574
+node/30906362,Foxhill,,,,fox,modern:en_fox,probable,kept,,hamlet,West Sussex,England,-0.567114,50.996545
+node/52742775,Foxhill,,,,fox,modern:en_fox,probable,kept,,hamlet,Wiltshire,England,-1.668437,51.530108
+node/3426853087,Foxhill,,,,fox,modern:en_fox,probable,kept,,peak,Cheshire,England,-2.737611,53.271577
+node/3431748088,Foxhill Bank,,,,fox,modern:en_fox,probable,kept,,locality,Lancashire,England,-2.398228,53.748349
+node/10204964097,Foxhill Moor,,,,fox,modern:en_fox,probable,kept,,locality,Hampshire,England,-1.549048,50.87631
+node/1717799879,Foxhole,,,,fox,modern:en_fox,probable,kept,,village,Cornwall,England,-4.86248,50.357979
+node/2329928746,Foxhole,,,,fox,modern:en_fox,probable,kept,,hamlet,Norfolk,England,1.268885,52.526912
+node/473195776,Foxhole,,,,fox,modern:en_fox,probable,kept,,hamlet,Devon,England,-4.244204,50.750693
+node/687144668,Foxhole,,,,fox,modern:en_fox,probable,kept,,hamlet,Highland,Scotland,-4.462613,57.414796
+node/810591952,Foxhole,,,,fox,modern:en_fox,probable,kept,,locality,Devon,England,-4.121058,51.093457
+node/475724025,Foxhole,,,,fox,modern:en_fox,probable,kept,,cliff,West Glamorgan,Wales,-4.092269,51.564963
+node/9610606323,Foxhole Bottom,,,,fox,modern:en_fox,probable,kept,,locality,Wiltshire,England,-2.026934,51.153361
+node/4814227886,Foxhole Cove,,,,fox,modern:en_fox,probable,kept,,locality,Devon,England,-3.649748,50.221569
+node/1582856929,Foxhole Hill,,,,fox,modern:en_fox,probable,kept,,peak,Northumberland,England,-1.757767,55.474241
+node/9833351065,Foxhole Point,,,,fox,modern:en_fox,probable,kept,,cliff,West Glamorgan,Wales,-4.294296,51.615026
+node/12139363689,Foxhole Rambridge Copse,,,,fox,modern:en_fox,probable,kept,,locality,Wiltshire,England,-1.679634,50.982005
+node/746726303,Foxhole Rigg Wood,,,,fox,modern:en_fox,probable,kept,,wood,Cumbria,England,-2.468915,54.354124
+node/534758264,Foxholes,,,,fox,modern:en_fox,probable,kept,,hamlet,Oxfordshire,England,-1.628116,51.886402
+node/702937144,Foxholes,,,,fox,modern:en_fox,probable,kept,,village,Worcestershire,England,-2.239199,52.39641
+node/9261372350,Foxholes,,,,fox,modern:en_fox,probable,kept,,hamlet,Shropshire,England,-2.740314,52.880265
+node/96254269,Foxholes,,,,fox,named:Foxholes,certain,kept,,village,North Yorkshire,England,-0.453071,54.143965
+node/13231745378,Foxholes Bottom,,,,fox,modern:en_fox,probable,kept,,locality,North Yorkshire,England,-0.441835,54.139118
+node/3894273762,Foxholes Brow,,,,fox,modern:en_fox,probable,kept,,locality,Cumbria,England,-2.308496,54.598773
+node/1296471496,Foxley,,,,fox,named:Foxley,certain,kept,,hamlet,Norfolk,England,1.019438,52.754136
+node/26782878,Foxley,,,,fox,named:Foxley,certain,kept,,village,Wiltshire,England,-2.15207,51.572602
+node/29582708,Foxley,,,,fox,named:Foxley,certain,kept,,hamlet,Northamptonshire,England,-1.06529,52.160302
+node/8416607824,Foxley,,,,fox,named:Foxley,certain,kept,,locality,Herefordshire,England,-2.856467,52.114088
+node/27188935,Foxton,,,,fox,named:Foxton,probable,kept,,village,Leicestershire,England,-0.967798,52.503532
+node/27431798,Foxton,,,,fox,named:Foxton,probable,kept,,village,Cambridgeshire,England,0.061574,52.115365
+node/433898421,Foxton,,,,fox,named:Foxton,probable,kept,,hamlet,Durham,England,-1.43987,54.617783
+node/54903887,Foxton,,,,fox,named:Foxton,probable,kept,,hamlet,North Yorkshire,England,-1.350605,54.359066
+node/2937899066,Foxwood,,,,fox,modern:en_fox,probable,kept,,hamlet,Shropshire,England,-2.558783,52.388055
+node/3137359591,Great Fox Hill,,,,fox,modern:en_fox,probable,kept,,peak,Essex,England,0.435978,51.631373
+node/2429423669,High Todhole,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.587344,55.273869
+node/9198294578,Little Fox Hill,,,,fox,modern:en_fox,probable,kept,,locality,Hampshire,England,-1.575933,50.888952
+node/52250561,Loughshinny,,,Loch Sionnach,fox,word:ga_sionnach,certain,kept,,village,,Ireland,-6.086362,53.546625
+node/2429423673,Low Todhole,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.592672,55.276893
+node/4997111103,Low Todrigg,,,,fox,modern:en_fox,probable,kept,,locality,Cumbria,England,-2.902816,54.632245
+node/2841759196,Sgurr a' Mhadaidh-ruaidh,,,,fox,word:gd_sionnach,certain,kept,,locality,Highland,Scotland,-5.64142,57.003404
+node/9930795838,Sgùrr a'Mhadaidh Ruaidh,,,,fox,word:gd_sionnach,certain,kept,,peak,Highland,Scotland,-6.223724,57.545272
+node/2154570902,Tod Crag,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.105643,55.183186
+node/2154570903,Tod Crag,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.045445,55.196407
+node/2643938123,Tod Crag,,,,fox,modern:en_fox,probable,kept,,locality,Cumbria,England,-2.616322,55.095758
+node/8251636857,Tod Fell,,,,fox,modern:en_fox,probable,kept,,peak,Dumfries and Galloway,Scotland,-3.882668,54.915627
+node/2339271565,Tod Hill,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-1.79311,55.095368
+node/2728691591,Tod Hill,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.412326,55.049899
+node/9904208650,Tod Hill,,,,fox,modern:en_fox,probable,kept,,locality,North Yorkshire,England,-1.109213,54.310469
+node/12410375159,Tod Hill,,,,fox,modern:en_fox,probable,kept,,peak,South Lanarkshire,Scotland,-4.214433,55.648861
+node/14131145663,Tod Hill,,,,fox,modern:en_fox,probable,kept,,peak,Dumfries and Galloway,Scotland,-3.325484,55.25067
+node/531562369,Tod Hill,,,,fox,modern:en_fox,probable,kept,,peak,Argyll and Bute,Scotland,-5.596866,55.346156
+node/2643951997,Tod Hole,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.491635,55.054693
+node/4896989260,Tod Hole,,,,fox,modern:en_fox,probable,kept,,locality,Cumbria,England,-3.338533,54.457579
+node/338812738,Tod Holes,,,,fox,modern:en_fox,probable,kept,,locality,North Lanarkshire,Scotland,-3.867137,55.86042
+node/319343524,Tod Knowe,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.368168,55.287637
+node/9197479656,Tod Knowe,,,,fox,modern:en_fox,probable,kept,,locality,Dumfries and Galloway,Scotland,-2.900124,55.204528
+node/9266334212,Tod Knowe,,,,fox,modern:en_fox,probable,kept,,locality,Dumfries and Galloway,Scotland,-3.017117,55.135986
+node/360252155,Tod Knowe,,,,fox,modern:en_fox,probable,kept,,peak,Northumberland,England,-2.026966,55.243075
+node/1495708054,Tod Law,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.091379,55.227643
+node/1832998431,Tod Law,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.134541,55.264322
+node/319343519,Tod Law,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.362243,55.29862
+node/309225642,Tod Moor Cross,,,,fox,modern:en_fox,probable,kept,,locality,Devon,England,-3.937588,50.371984
+node/247651469,Tod Slack,,,,fox,modern:en_fox,probable,kept,,locality,South Lanarkshire,Scotland,-3.609286,55.435703
+node/745714634,Tod Stones,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.056318,55.400081
+node/3914062039,Todburn,,,,fox,modern:en_fox,probable,kept,,village,Northumberland,England,-1.811401,55.251973
+node/5006937022,Todcrags,,,,fox,modern:en_fox,probable,kept,,locality,Cumbria,England,-2.738294,54.485353
+node/4996475846,Todgill,,,,fox,modern:en_fox,probable,kept,,locality,Cumbria,England,-2.914889,54.59703
+node/440290262,Todhead Point,,,,fox,modern:en_fox,probable,kept,,locality,Aberdeenshire,Scotland,-2.214282,56.884209
+node/1263411349,Todheugh,,,,fox,modern:en_fox,probable,kept,,hamlet,Scottish Borders,Scotland,-2.264342,55.79984
+node/3546857867,Todhill Brae,,,,fox,modern:en_fox,probable,kept,,peak,Dumfries and Galloway,Scotland,-3.095486,55.175433
+node/243094944,Todhills,,,,fox,modern:en_fox,probable,kept,,hamlet,Cumbria,England,-2.986142,54.957916
+node/4906588063,Todhills,,,,fox,modern:en_fox,probable,kept,,hamlet,Angus,Scotland,-2.941185,56.540258
+node/721342355,Todhills,,,,fox,modern:en_fox,probable,kept,,hamlet,Durham,England,-1.67237,54.700475
+node/4899621743,Todholes,,,,fox,modern:en_fox,probable,kept,,locality,Angus,Scotland,-2.681613,56.839619
+node/9312121063,Todholes,,,,fox,modern:en_fox,probable,kept,,locality,Dumfries and Galloway,Scotland,-3.089724,55.202516
+node/3614799704,Todholes Hill,,,,fox,modern:en_fox,probable,kept,,peak,Dumfries and Galloway,Scotland,-3.983742,55.413064
+node/1832998434,Todlaw Pike,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.156589,55.258974
+node/340079893,Todlaw Rig,,,,fox,modern:en_fox,probable,kept,,peak,South Lanarkshire,Scotland,-3.568919,55.530097
+node/541437341,Todley Hill,,,,fox,modern:en_fox,probable,kept,,peak,West Yorkshire,England,-1.976023,53.866064
+node/2408787323,Todridge Fell,,,,fox,modern:en_fox,probable,kept,,locality,Northumberland,England,-2.00571,55.045
+node/13938395377,Todridge Fell,,,,fox,modern:en_fox,probable,kept,,peak,Northumberland,England,-2.004582,55.04219
+node/8247905119,Tods Hill,,,,fox,modern:en_fox,probable,kept,,peak,Dumfries and Galloway,Scotland,-4.172319,55.136189
+node/2695003381,Tods Knowe,,,,fox,modern:en_fox,probable,kept,,peak,Scottish Borders,Scotland,-3.328,55.495289
+node/1358364411,Twll Llwynog,,,,fox,word:cy_llwynog,certain,kept,,hamlet,Clwyd,Wales,-3.588808,53.271752
+node/12258958745,West Foxhills Mead,,,,fox,modern:en_fox,probable,kept,,locality,Hampshire,England,-1.514196,50.904566
+node/13901502469,Glede Howe,,,,kite,modern:en_kite,probable,kept,,peak,Cumbria,England,-2.740663,54.501355
+node/5006937106,Glede Howe North Top,,,,kite,modern:en_kite,probable,kept,,peak,Cumbria,England,-2.741373,54.502673
+node/3612874399,Glede Knowe,,,,kite,modern:en_kite,probable,kept,,locality,Scottish Borders,Scotland,-3.031156,55.66117
+node/250577517,Gledhow,,,,kite,named:Gledhow,probable,kept,,suburb,West Yorkshire,England,-1.517898,53.829192
+node/4729070271,Kite Hill,,,,kite,modern:en_kite,probable,kept,,locality,Isle of Wight,England,-1.222719,50.725374
+node/4074736914,Kite Hill,,,,kite,modern:en_kite,probable,kept,,peak,Dorset,England,-2.352206,50.745128
+node/7801032629,Kite Hill,,,,kite,modern:en_kite,probable,kept,,peak,Tyne and Wear,England,-1.71898,54.935705
+node/2996525695,Kite Wood,,,,kite,modern:en_kite,probable,kept,,locality,Scottish Borders,Scotland,-3.040467,55.606032
+node/3498033074,Kites Hill,,,,kite,modern:en_kite,probable,kept,,locality,Hampshire,England,-1.21923,51.322758
+node/326534680,Kites Hill,,,,kite,modern:en_kite,probable,kept,,peak,Gloucestershire,England,-2.186695,51.813581
+node/8414783044,Bàgh Clach an Dobhrain,,,,otter,word:gd_dobhran,certain,kept,,bay,Argyll and Bute,Scotland,-5.578293,56.477979
+node/2442394620,Cnap an Dobhrain,,,,otter,word:gd_dobhran,certain,kept,,peak,Moray,Scotland,-3.513658,57.144804
+node/430520157,Craigendoran,,Creag an Dòbhrain,,otter,word:gd_dobhran,certain,kept,,suburb,Argyll and Bute,Scotland,-4.712167,55.998121
+node/6391510601,Ffynnon-dwrgi,,,,otter,word:cy_dyfrgi,certain,kept,,spring,Dyfed,Wales,-4.579217,52.091243
+node/5005246320,Otter Bank,,,,otter,modern:en_otter,probable,kept,,locality,Cumbria,England,-2.716927,54.538547
+node/518423159,Otter Cove,,,,otter,modern:en_otter,probable,kept,,bay,Devon,England,-3.357798,50.611287
+node/3168848224,Otter Hole,,,,otter,modern:en_otter,probable,kept,,locality,Orkney Islands,Scotland,-2.574592,59.220591
+node/13329942279,Otter Island,,,,otter,modern:en_otter,probable,kept,,locality,East Riding of Yorkshire,England,-0.400763,53.996981
+node/271134,Otterbourne,,,,otter,named:Otterbourne,certain,kept,,village,Hampshire,England,-1.347248,51.00465
+node/1991737258,Otterburn,,,,otter,modern:en_otter,probable,kept,,hamlet,Scottish Borders,Scotland,-2.387416,55.513042
+node/310934202,Otterburn,,,,otter,named:Otterburn,certain,kept,,village,Northumberland,England,-2.180919,55.231995
+node/431429810,Otterburn,,,,otter,named:Otterburn,certain,kept,,hamlet,North Yorkshire,England,-2.179852,54.015942
+node/2470646829,Otterburn Hall,,,,otter,modern:en_otter,probable,kept,,hamlet,Northumberland,England,-2.187143,55.242556
+node/1699989057,Ottershaw,,,,otter,modern:en_otter2,probable,kept,,village,Surrey,England,-0.530326,51.365042
+node/302322879,Ottershaw Park,,,,otter,modern:en_otter2,probable,kept,,locality,Surrey,England,-0.547292,51.355765
+node/116989131,Otterton,,,,otter,named:Otterton,certain,kept,,village,Devon,England,-3.299993,50.659449
+node/115731383,Ottery St Mary,,,,otter,named:Ottery St Mary,certain,kept,,town,Devon,England,-3.278382,50.751255
+node/1293909347,Bad am Fhithich Mhóir,,,,raven,word:gd_fitheach,certain,kept,,peak,Highland,Scotland,-5.500661,57.182908
+node/10223920297,Bad an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,locality,Na h-Eileanan Siar,Scotland,-6.27522,58.495717
+node/2682224584,Beinn nam Fitheach,,,,raven,word:gd_fitheach,certain,kept,,peak,Highland,Scotland,-4.626015,57.486821
+node/4140745963,Beinn nam Fitheach,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-6.169939,56.091861
+node/8065791667,Beinn nam Fitheach,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-6.235889,55.852089
+node/9943171844,Bidein an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Highland,Scotland,-6.100454,57.152831
+node/3725861723,Binnein Fithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-5.78768,55.370397
+node/2712262809,Biod an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Highland,Scotland,-5.391712,57.178228
+node/3629418184,Bàrr an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-5.476513,56.077402
+node/1141845247,Ceag nam Fitheach,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-5.149784,55.972499
+node/13742282663,Cnoc an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,locality,Na h-Eileanan Siar,Scotland,-6.43481,58.134554
+node/2457819759,Cnoc an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-5.226808,55.921877
+node/4148514580,Cnoc an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-6.96373,56.504129
+node/8573233503,Cnoc an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Highland,Scotland,-4.139812,57.985522
+node/13702068434,Cnoc nam Fitheach,,,,raven,word:gd_fitheach,certain,kept,,locality,Highland,Scotland,-3.402775,58.474844
+node/9942477709,Cnoc nam Fitheach,,,,raven,word:gd_fitheach,certain,kept,,locality,Highland,Scotland,-5.989062,57.21718
+node/3306212002,Craig Nyth-y-Gigfran (Y Blaen Llym),,,,raven,word:cy_cigfran,certain,kept,,peak,Gwynedd,Wales,-3.960489,52.998824
+node/8412953934,Creag an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,isolated_dwelling,Argyll and Bute,Scotland,-5.520125,56.506095
+node/258827823,Creag an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Perth and Kinross,Scotland,-4.221144,56.551822
+node/3264148962,Creag an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-5.276187,55.909626
+node/4843223847,Creag an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Highland,Scotland,-5.592452,57.645354
+node/612505589,Creag an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Perth and Kinross,Scotland,-3.854775,56.683714
+node/6285041196,Creag an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Highland,Scotland,-4.984832,58.434032
+node/9937780003,Creag an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Highland,Scotland,-6.191075,57.435082
+node/2813113609,Creag nam Fitheach,,,,raven,word:gd_fitheach,certain,kept,,peak,Highland,Scotland,-5.883286,56.759686
+node/3617509928,Creag nam Fitheach,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-5.495216,56.181625
+node/13167798582,Creagan Fitheach,,,,raven,word:gd_fitheach,certain,kept,,peak,Highland,Scotland,-5.965568,57.223178
+node/12309451588,Cwm y Gigfran,,,,raven,word:cy_cigfran,certain,kept,,valley,Dyfed,Wales,-3.871756,52.391173
+node/13680794570,Dunveoch,,Dùn nam Fitheach,,raven,word:gd_fitheach,certain,kept,,isolated_dwelling,Dumfries and Galloway,Scotland,-4.208142,55.102801
+node/60574102,East Ravendale,,,,raven,modern:en_raven,probable,kept,,hamlet,Lincolnshire,England,-0.137883,53.478163
+node/2698949968,East Ravendale Park,,,,raven,modern:en_raven,probable,kept,,locality,Lincolnshire,England,-0.136905,53.477149
+node/9796345116,Geo an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,bay,Na h-Eileanan Siar,Scotland,-6.858996,57.789369
+node/4885654297,High Raven Crag,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.037871,54.473591
+node/4885654296,Low Raven Crag,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.034285,54.47501
+node/2794520881,Meall an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-5.145128,56.39229
+node/4859931109,Raven Crag,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.180442,54.655483
+node/4952642333,Raven Crag,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.042596,54.442546
+node/4999344035,Raven Crag,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-2.9042,54.434032
+node/5000075412,Raven Crag,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-2.813496,54.462984
+node/5103049939,Raven Crag,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-2.841077,54.437266
+node/5344899266,Raven Crag,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.061357,54.3929
+node/5377539542,Raven Crag,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-2.948792,54.540238
+node/29765658,Raven Crag,,,,raven,modern:en_raven,probable,kept,,peak,Cumbria,England,-3.078738,54.559237
+node/3639477428,Raven Crag,,,,raven,modern:en_raven,probable,kept,,peak,Cumbria,England,-3.282901,54.283544
+node/5348944520,Raven Crag Gully,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.162215,54.495226
+node/257154405,Raven Craig,,,,raven,modern:en_raven,probable,kept,,peak,West Lothian,Scotland,-3.614974,55.916835
+node/13626540127,Raven Gill Head,,,,raven,modern:en_raven,probable,kept,,locality,North Yorkshire,England,-0.983165,54.498767
+node/2783161999,Raven Hill,,,,raven,modern:en_raven,probable,kept,,locality,East Riding of Yorkshire,England,-0.148981,53.780724
+node/13626534060,Raven Hill,,,,raven,modern:en_raven,probable,kept,,hill,South Yorkshire,England,-1.195843,53.529217
+node/671570072,Raven Howe,,,,raven,modern:en_raven,probable,kept,,peak,Cumbria,England,-2.851204,54.522472
+node/4950861262,Raven Nest How,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.144423,54.381785
+node/2243008643,Raven Rock,,,,raven,modern:en_raven,probable,kept,,peak,Highland,Scotland,-4.572757,57.608184
+node/10593800521,Raven Scar,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-2.939103,54.265487
+node/2934640252,Raven Scar,,,,raven,modern:en_raven,probable,kept,,locality,Durham,England,-2.254621,54.657327
+node/7671612732,Raven Seat,,,,raven,modern:en_raven,probable,kept,,peak,Durham,England,-2.048359,54.685687
+node/4952353162,Raven Tor,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.114146,54.37961
+node/11083203746,Raven Wood,,,,raven,modern:en_raven,probable,kept,,wood,East Sussex,England,0.042114,51.059883
+node/4942419743,Raven's Crag,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.226018,54.305517
+node/13666559407,Raven's Crag,,,,raven,modern:en_raven,probable,kept,,cliff,Northumberland,England,-2.317557,54.960295
+node/4948779694,Raven's Crag,,,,raven,modern:en_raven,probable,kept,,peak,Cumbria,England,-3.195098,54.325976
+node/568548201,Raven's Tor,,,,raven,modern:en_raven,probable,kept,,locality,Devon,England,-3.751619,50.624008
+node/2665965326,Ravendale Top,,,,raven,modern:en_raven,probable,kept,,peak,Lincolnshire,England,-0.134684,53.484935
+node/581250467,Ravengill Dod,,,,raven,modern:en_raven,probable,kept,,peak,South Lanarkshire,Scotland,-3.712732,55.458426
+node/2146654197,Ravens Cleugh,,,,raven,modern:en_raven,probable,kept,,locality,Northumberland,England,-2.298658,55.37251
+node/645344991,Ravens Cove,,,,raven,modern:en_raven,probable,kept,,locality,Devon,England,-3.652782,50.218727
+node/2167793083,Ravens Crag,,,,raven,modern:en_raven,probable,kept,,peak,Northumberland,England,-1.954855,55.414125
+node/745929811,Ravens Crag Rock,,,,raven,modern:en_raven,probable,kept,,locality,Northumberland,England,-2.110903,55.386489
+node/2146654198,Ravens Crags,,,,raven,modern:en_raven,probable,kept,,locality,Northumberland,England,-2.352395,55.348022
+node/1832998413,Ravens Heugh,,,,raven,modern:en_raven,probable,kept,,peak,Northumberland,England,-1.980652,55.28357
+node/2146654199,Ravens Knowe,,,,raven,modern:en_raven,probable,kept,,locality,Northumberland,England,-2.351506,55.348969
+node/319296182,Ravens Knowe,,,,raven,modern:en_raven,probable,kept,,locality,Northumberland,England,-2.347512,55.349691
+node/4951016906,Ravens Nest,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.151388,54.413948
+node/5392803078,Ravens Nest,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-3.070186,54.425364
+node/9726370232,Ravens Nest,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-2.317835,54.387076
+node/851796216,Ravens Nest Inclosure,,,,raven,modern:en_raven,probable,kept,,locality,Hampshire,England,-1.63632,50.933772
+node/1429400449,Ravens Tor,,,,raven,modern:en_raven,probable,kept,,peak,Derbyshire,England,-1.791673,53.081571
+node/13890970762,Ravens Wood,,,,raven,modern:en_raven,probable,kept,,locality,Hampshire,England,-1.197315,50.885082
+node/12556241089,Ravensbeck Bush,,,,raven,modern:en_raven,probable,kept,,locality,Hampshire,England,-1.477237,50.768726
+node/12556241091,Ravensbeck Heath,,,,raven,modern:en_raven,probable,kept,,locality,Hampshire,England,-1.472206,50.770416
+node/12556241088,Ravensbeck Marsh,,,,raven,modern:en_raven,probable,kept,,locality,Hampshire,England,-1.478142,50.767998
+node/10864255330,Ravenscar Plantation,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-2.822055,54.383189
+node/1274220124,Ravenscliff Gully,,,,raven,modern:en_raven,probable,kept,,cliff,West Glamorgan,Wales,-4.098614,51.565561
+node/843995243,Ravenscliffe,,,,raven,modern:en_raven2,probable,kept,,locality,Staffordshire,England,-2.235744,53.06961
+node/8545158835,Ravenshaugh Bridge,,,,raven,modern:en_raven,probable,kept,,locality,East Lothian,Scotland,-3.016686,55.948224
+node/322809684,Ravenshead,,,,raven,modern:en_raven,probable,kept,,village,Nottinghamshire,England,-1.161199,53.086882
+node/319579623,Ravenshill Moor,,,,raven,modern:en_raven,probable,kept,,locality,Northumberland,England,-2.576348,55.252829
+node/2098908759,Ravenshole,,,,raven,modern:en_raven,probable,kept,,locality,Northumberland,England,-1.913942,55.499241
+node/5137466437,Ravenside,,,,raven,modern:en_raven,probable,kept,,locality,Cumbria,England,-2.89087,54.837621
+node/1707558619,Ravensmoor,,,,raven,modern:en_raven,probable,kept,,village,Cheshire,England,-2.567184,53.05181
+node/358327257,Ravensnest Wood,,,,raven,modern:en_raven,probable,kept,,wood,Gwent,Wales,-2.714446,51.693577
+node/2128973512,Ravenstone Brow,,,,raven,modern:en_raven,probable,kept,,locality,Greater Manchester,England,-1.9695,53.567908
+node/2128973504,Ravenstone Rocks,,,,raven,modern:en_raven,probable,kept,,locality,Greater Manchester,England,-1.970841,53.565818
+node/26261127,Ravenstonedale,,,,raven,modern:en_raven2,probable,kept,,village,Cumbria,England,-2.42982,54.432451
+node/3660717260,Ravenstonedale Moor,,,,raven,modern:en_raven2,probable,kept,,locality,Cumbria,England,-2.48855,54.452501
+node/8712123498,Ravenstonedale Park,,,,raven,modern:en_raven2,probable,kept,,locality,Cumbria,England,-2.429813,54.438393
+node/1508505509,Sloc an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,bay,Argyll and Bute,Scotland,-5.819167,56.100723
+node/4798878548,Sròn an Fhithich,,Sròn an Fhithich,,raven,word:gd_fitheach,certain,kept,,locality,Argyll and Bute,Scotland,-6.473272,56.689176
+node/561520878,Stob Creag an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Stirling,Scotland,-4.672615,56.33498
+node/540248930,Stob an Fhithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-4.736956,56.305771
+node/1307168698,Tom Fithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Stirling,Scotland,-4.642064,56.175165
+node/3617509923,Tom an Fithich,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-5.41351,56.257839
+node/2855005910,Tom nam Fitheach,,,,raven,word:gd_fitheach,certain,kept,,peak,Argyll and Bute,Scotland,-6.120069,56.557495
+node/60574103,West Ravendale,,,,raven,modern:en_raven,probable,kept,,hamlet,Lincolnshire,England,-0.151587,53.481807
+node/52242241,Leixlip,,,Léim an Bhradáin,salmon,named:Leixlip,certain,kept,,town,,Ireland,-6.489744,53.364477
+node/12206699071,Meall nam Bradan Leathan,,,,salmon,word:gd_bradan,certain,kept,,peak,Highland,Scotland,-4.524609,57.70445
+node/8093610082,Salmon Rock,,,,salmon,modern:en_salmon,probable,kept,,locality,Northern Ireland,Northern Ireland,-6.544231,55.220493
+node/2689725064,Sithean nan Ealachan,,,,swan,word:gd_eala,certain,kept,,peak,Highland,Scotland,-5.26413,58.26059
+node/8579857438,Swan Island,,,,swan,modern:en_swan,probable,kept,,locality,Hampshire,England,-1.482378,51.127622
+node/10768897002,Swan Loch Copse,,,,swan,modern:en_swan,probable,kept,,locality,East Ayrshire,Scotland,-4.366261,55.473855
+node/4253353905,Swan's Pool,,,,swan,modern:en_swan,probable,kept,,bay,Argyll and Bute,Scotland,-6.180943,55.624892
+node/33527840,Swanbourne,,,,swan,named:Swanbourne,probable,kept,,village,Buckinghamshire,England,-0.838215,51.938451
+node/2171403230,Swanmore,,,,swan,named:Swanmore,probable,kept,,village,Hampshire,England,-1.180196,50.944054
+node/3522781535,Swans Hill,,,,swan,modern:en_swan,probable,kept,,peak,Worcestershire,England,-1.921542,52.370817
+node/5346979709,Swans Nest,,,,swan,modern:en_swan,probable,kept,,locality,Cumbria,England,-3.344906,54.579594
+node/10960137457,The Swan's Well,,,,swan,modern:en_swan,probable,kept,,spring,Powys,Wales,-3.129777,52.071747
+node/2440941011,Upper Swanmore,,,,swan,named:Swanmore,probable,kept,,hamlet,Hampshire,England,-1.174178,50.953793
+node/611769782,Beinn a' Chait,,,,wildcat,word:gd_cat,probable,kept,,peak,Perth and Kinross,Scotland,-3.861928,56.851584
+node/10315951257,Cairnargat,,Càrn nan Cat,,wildcat,word:gd_cat,probable,kept,,isolated_dwelling,Aberdeenshire,Scotland,-2.907407,57.440249
+node/4950742940,Cat Bank,,,,wildcat,modern:en_cat,probable,kept,,locality,Cumbria,England,-3.142176,54.321361
+node/29954492,Cat Bells,,,,wildcat,modern:en_cat2,probable,kept,,peak,Cumbria,England,-3.170661,54.568352
+node/13236218293,Cat Clough Spring,,,,wildcat,modern:en_cat,probable,kept,,spring,West Yorkshire,England,-1.973631,53.857317
+node/4941929963,Cat Cove,,,,wildcat,modern:en_cat,probable,kept,,locality,Cumbria,England,-3.230169,54.416961
+node/1759697229,Cat Crag,,,,wildcat,modern:en_cat,probable,kept,,locality,Northumberland,England,-1.876685,55.614112
+node/4890035305,Cat Crag,,,,wildcat,modern:en_cat,probable,kept,,locality,Cumbria,England,-3.330557,54.517376
+node/745930309,Cat Crag,,,,wildcat,modern:en_cat,probable,kept,,locality,Northumberland,England,-2.052446,55.448396
+node/11920667754,Cat Crag,,,,wildcat,modern:en_cat,probable,kept,,peak,Cumbria,England,-2.887124,54.337598
+node/4739852624,Cat Crags,,,,wildcat,modern:en_cat,probable,kept,,cliff,North Yorkshire,England,-1.883093,53.985536
+node/2683381685,Cat Craig,,,,wildcat,modern:en_cat,probable,kept,,peak,Scottish Borders,Scotland,-3.00442,55.554081
+node/2849423331,Cat Craig,,,,wildcat,modern:en_cat,probable,kept,,peak,Dumfries and Galloway,Scotland,-3.555876,54.990541
+node/2776832854,Cat Hill,,,,wildcat,modern:en_cat,probable,kept,,hamlet,South Yorkshire,England,-1.627377,53.543577
+node/4897116405,Cat How,,,,wildcat,modern:en_cat,probable,kept,,locality,Cumbria,England,-3.363891,54.43181
+node/2114961950,Cat Law,,,,wildcat,modern:en_cat,probable,kept,,peak,Angus,Scotland,-3.114869,56.735627
+node/13233153857,Cat Nab,,,,wildcat,modern:en_cat,probable,kept,,locality,East Riding of Yorkshire,England,-0.145414,54.141468
+node/13075786358,Cat Nab,,,,wildcat,modern:en_cat,probable,kept,,peak,North Yorkshire,England,-0.966077,54.584692
+node/13202180274,Cat Scar,,,,wildcat,modern:en_cat,probable,kept,,locality,North Yorkshire,England,-0.736248,54.446101
+node/4942419742,Cat's Crag,,,,wildcat,modern:en_cat,probable,kept,,locality,Cumbria,England,-3.225388,54.306917
+node/10789084559,Cat's Hill,,,,wildcat,modern:en_cat,probable,kept,,locality,Hertfordshire,England,0.018023,51.78496
+node/5751608762,Catbrook,,,,wildcat,modern:en_cat,probable,kept,,village,Gwent,Wales,-2.708888,51.722018
+node/2470640369,Catcleugh,,,,wildcat,named:Catcleugh,probable,kept,,hamlet,Northumberland,England,-2.399385,55.323444
+node/88305441,Catcleugh,,,,wildcat,named:Catcleugh,probable,kept,,locality,Scottish Borders,Scotland,-2.400263,55.353726
+node/1891728575,Catcleugh Crags,,,,wildcat,modern:en_cat,probable,kept,,locality,Northumberland,England,-2.294776,55.191038
+node/319342524,Catcleugh Shin,,,,wildcat,modern:en_cat,probable,kept,,peak,Scottish Borders,Scotland,-2.492821,55.351348
+node/1760470741,Catcraig,,,,wildcat,modern:en_cat,probable,kept,,hamlet,South Lanarkshire,Scotland,-3.858517,55.702621
+node/13878144,Catford,,,,wildcat,named:Catford,certain,kept,,town,Greater London,England,-0.019753,51.445322
+node/3770424593,Cathole Cliff,,,,wildcat,modern:en_cat,probable,kept,,locality,Devon,England,-3.832442,50.22611
+node/9568874109,Cathole Point,,,,wildcat,modern:en_cat,probable,kept,,locality,Devon,England,-3.830413,50.226923
+node/4897620238,Cathow,,,,wildcat,modern:en_cat,probable,kept,,locality,Cumbria,England,-3.475422,54.515939
+node/261743637,Catmere End,,,,wildcat,modern:en_cat,probable,kept,,hamlet,Essex,England,0.176163,52.032843
+node/2207573350,Catmoss,,,,wildcat,modern:en_cat,probable,kept,,locality,Scottish Borders,Scotland,-2.457641,55.698547
+node/1580936956,Catrigg,,,,wildcat,modern:en_cat,probable,kept,,locality,North Yorkshire,England,-2.247777,54.107333
+node/295729766,Cats Edge,,,,wildcat,modern:en_cat,probable,kept,,hamlet,Staffordshire,England,-2.082102,53.071855
+node/671766655,Cats Tor,,,,wildcat,modern:en_cat,probable,kept,,peak,Cheshire,England,-2.009186,53.280136
+node/34812575,Catsclough Crossing,,,,wildcat,modern:en_cat,probable,kept,,locality,Cheshire,England,-2.534708,53.20539
+node/317249248,Catshill,,,,wildcat,named:Catshill,probable,kept,,village,Worcestershire,England,-2.058823,52.364749
+node/12271765130,Catshills,,,,wildcat,modern:en_cat,probable,kept,,locality,Hampshire,England,-1.540658,51.045964
+node/1580724623,Catshole Tor,,,,wildcat,modern:en_cat,probable,kept,,peak,Cornwall,England,-4.587322,50.57705
+node/8258072310,Catstone Hill,,,,wildcat,modern:en_cat,probable,kept,,peak,Aberdeenshire,Scotland,-2.706359,57.541858
+node/8568818629,Catstone Hill,,,,wildcat,modern:en_cat,probable,kept,,peak,Scottish Borders,Scotland,-3.440182,55.759411
+node/13236303009,Catstones End,,,,wildcat,modern:en_cat,probable,kept,,locality,West Yorkshire,England,-1.896674,53.836485
+node/13135862304,Catstones Hill,,,,wildcat,modern:en_cat,probable,kept,,locality,West Yorkshire,England,-1.897259,53.841433
+node/8098265818,Catstones Well,,,,wildcat,modern:en_cat,probable,kept,,spring,West Yorkshire,England,-1.89982,53.836626
+node/5375763184,Catstycam,,,,wildcat,modern:en_cat2,probable,kept,,peak,Cumbria,England,-3.008921,54.533486
+node/2370136559,Cloghernagat,,,Clochar na gCat,wildcat,word:ga_cat,probable,kept,,locality,,Ireland,-9.669472,52.262819
+node/13742282651,Cnoc nan Cat,,,,wildcat,word:gd_cat,probable,kept,,locality,Na h-Eileanan Siar,Scotland,-6.406054,58.136817
+node/336114504,Craigencalt,,Creag nan Cat,,wildcat,word:gd_cat,probable,kept,,farm,Fife,Scotland,-3.191831,56.075145
+node/2469227893,Creag a' Chait,,,,wildcat,word:gd_cat,probable,kept,,locality,Highland,Scotland,-5.816104,57.004699
+node/9659336213,Creag a' Chait,,,,wildcat,word:gd_cat,probable,kept,,peak,Aberdeenshire,Scotland,-3.366623,57.046209
+node/9938018621,Creag a' Chait,,,,wildcat,word:gd_cat,probable,kept,,peak,Highland,Scotland,-6.179939,57.368396
+node/5359064041,Cwm Cathod,,,,wildcat,word:cy_cath,probable,kept,,locality,Powys,Wales,-3.663278,52.458783
+node/5829809672,High Cat Crag,,,,wildcat,modern:en_cat,probable,kept,,locality,Cumbria,England,-3.0691,54.613614
+node/5829809673,Low Cat Crag,,,,wildcat,modern:en_cat,probable,kept,,locality,Cumbria,England,-3.071663,54.612836
+node/13990381748,Poll a' Chait Fhiadhaich,,,,wildcat,word:gd_cat,probable,kept,,bay,Highland,Scotland,-4.704644,58.566021
+node/2442929744,Tom a' Chait,,,,wildcat,word:gd_cat,probable,kept,,peak,Highland,Scotland,-3.402674,57.382126
+node/690684768,Upper Catshill,,,,wildcat,named:Catshill,probable,kept,,locality,Worcestershire,England,-2.051418,52.367715
+node/13701251767,Wild Cat Slack,,,,wildcat,modern:en_cat,probable,kept,,locality,Dumfries and Galloway,Scotland,-4.308371,55.204612
+node/12647479160,Blaidd,Blaidd,,,wolf,word:cy_blaidd,probable,kept,"certainty set in review: Blaidd: a single-word farm or house name, possibly modern; the word is certain but the naming is not",farm,Gwynedd,Wales,-4.081551,52.636741
+node/9379693414,Cwm Bleiddiaid,,,,wolf,word:cy_blaidd,certain,kept,,locality,Gwynedd,Wales,-4.132073,53.009554
+node/3697413142,The Wolfs Hill,,,,wolf,modern:en_wolf,probable,kept,,locality,Northern Ireland,Northern Ireland,-6.863108,54.71167
+node/29669454,Ulpha,,,,wolf,named:Ulpha,certain,kept,,village,Cumbria,England,-3.238936,54.328018
+node/2094803065,Wolf Crag,,,,wolf,modern:en_wolf,probable,kept,,locality,Northumberland,England,-2.038835,55.189019
+node/13264500291,Wolf Crags,,,,wolf,modern:en_wolf,probable,kept,,locality,North Yorkshire,England,-1.716894,54.168134
+node/487808526,Wolf Craig,,,,wolf,modern:en_wolf,probable,kept,,peak,Angus,Scotland,-3.019809,56.928428
+node/2436619706,Wolf Hill,,,,wolf,modern:en_wolf,probable,kept,,peak,Angus,Scotland,-3.097793,56.887206
+node/1317292879,Wolf Hole,,,,wolf,modern:en_wolf,probable,kept,,locality,Northumberland,England,-1.853248,55.324153
+node/9314812485,Wolf Hope,,,,wolf,modern:en_wolf,probable,kept,,locality,Dumfries and Galloway,Scotland,-3.004788,55.227832
+node/5007276364,Wolf Howe,,,,wolf,modern:en_wolf,probable,kept,,locality,Cumbria,England,-2.703451,54.413979
+node/4500894148,Wolf Island,,,,wolf,modern:en_wolf,probable,kept,,locality,Northern Ireland,Northern Ireland,-6.381615,54.360764
+node/3549949965,Wolf Island Bog,,,,wolf,modern:en_wolf,probable,kept,,locality,Northern Ireland,Northern Ireland,-6.646013,54.213961
+node/13264521986,Wolf Pit Slack,,,,wolf,modern:en_wolf,probable,kept,,locality,North Yorkshire,England,-0.912163,54.421899
+node/29784408,Wolf Stones,,,,wolf,modern:en_wolf,probable,kept,,peak,Lancashire,England,-2.048045,53.850259
+node/17119312,Wolf's Castle,Casblaidd,,,wolf,named:Wolf's Castle,probable,kept,,village,Dyfed,Wales,-4.970699,51.898524
+node/323134271,Wolfcleugh,,,,wolf,modern:en_wolf,probable,kept,,locality,Northumberland,England,-2.315802,54.840316
+node/323147234,Wolfcleugh Common,,,,wolf,modern:en_wolf,probable,kept,,locality,Durham,England,-2.180107,54.785637
+node/6237544494,Wolfcrag Fold,,,,wolf,modern:en_wolf,probable,kept,,locality,Cumbria,England,-3.008806,54.591243
+node/4994423714,Wolfcrag Moss,,,,wolf,modern:en_wolf,probable,kept,,locality,Cumbria,England,-2.994538,54.594439
+node/1444693839,Wolfelee,,,,wolf,modern:en_wolf,probable,kept,,locality,Scottish Borders,Scotland,-2.648809,55.375689
+node/2209300889,Wolfelee Hill,,,,wolf,modern:en_wolf,probable,kept,,peak,Scottish Borders,Scotland,-2.637151,55.368594
+node/2294867819,Wolfhill,,,,wolf,modern:en_wolf,probable,kept,,village,Perth and Kinross,Scotland,-3.373039,56.485178
+node/335564566,Wolfhill,,,,wolf,modern:en_wolf,probable,kept,,locality,Northumberland,England,-2.426618,54.923327
+node/31376759,Wolfhole Crag,,,,wolf,modern:en_wolf,probable,kept,,peak,Lancashire,England,-2.558698,54.01537
+node/9314812484,Wolfhope Bush,,,,wolf,modern:en_wolf,probable,kept,,locality,Dumfries and Galloway,Scotland,-3.000859,55.22962
+node/9314651703,Wolfhope Head,,,,wolf,modern:en_wolf,probable,kept,,locality,Dumfries and Galloway,Scotland,-3.042599,55.233622
+node/20626519,Wolfsdale,Wolfsdale,,,wolf,modern:en_wolf,probable,kept,,hamlet,Dyfed,Wales,-5.003193,51.853977
+node/321821893,Wolfstones,,,,wolf,modern:en_wolf,probable,kept,,peak,West Yorkshire,England,-1.813102,53.578242
+node/1617860156,Woolley,,,,wolf,named:Woolley,probable,kept,,hamlet,Cornwall,England,-4.484833,50.922462
+node/2575833061,Woolley,,,,wolf,named:Woolley,probable,kept,,hamlet,Somerset,England,-2.362532,51.416118
+node/29622786,Woolley,,,,wolf,named:Woolley,probable,kept,,village,Derbyshire,England,-1.985028,53.456648
+node/298287823,Woolley,,,,wolf,named:Woolley,probable,kept,,hamlet,Derbyshire,England,-1.444487,53.139789
+node/331190,Woolley,,,,wolf,named:Woolley,certain,kept,,village,West Yorkshire,England,-1.515919,53.614155
+node/344779881,Woolley,,,,wolf,named:Woolley,probable,kept,,village,Cambridgeshire,England,-0.312295,52.35571
+node/1066840378,Woolley Green,,,,wolf,named:Woolley,probable,kept,,hamlet,Wiltshire,England,-2.235215,51.35364
+node/30132968,Woolley Moor,,,,wolf,named:Woolley,probable,kept,,village,Derbyshire,England,-1.45141,53.149202
+node/29278673,Woolpit,,,,wolf,named:Woolpit,certain,kept,,village,Suffolk,England,0.888094,52.224769
+node/29278769,Woolpit Green,,,,wolf,named:Woolpit,certain,kept,,hamlet,Suffolk,England,0.893851,52.216485
+node/1977768047,Woolpit Heath,,,,wolf,named:Woolpit,certain,kept,,hamlet,Suffolk,England,0.9082,52.214439
+node/5261839410,Bagh Aird nam Madadh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",bay,Na h-Eileanan Siar,Scotland,-7.128453,57.591338
+node/1136300081,Beinn a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Highland,Scotland,-4.104686,58.34464
+node/2529104426,Beinn a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Highland,Scotland,-6.348078,57.394088
+node/13071436307,Clais a Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",locality,Highland,Scotland,-3.801654,57.286711
+node/1132280654,Cnoc Madaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Argyll and Bute,Scotland,-5.103213,55.990759
+node/1132317482,Cnoc a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Argyll and Bute,Scotland,-4.942627,56.015224
+node/3627073560,Cnoc a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Argyll and Bute,Scotland,-5.547071,55.552525
+node/613035555,Cnoc a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Highland,Scotland,-4.868684,58.42867
+node/2639185798,Coir' a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",locality,Highland,Scotland,-6.230036,57.238271
+node/2639185798,Coir' a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",valley,Highland,Scotland,-6.230036,57.238271
+node/12228575463,Creag a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Highland,Scotland,-4.725023,57.188078
+node/2444423670,Creag a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Perth and Kinross,Scotland,-4.235233,56.756868
+node/3626681847,Creag a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Argyll and Bute,Scotland,-5.523035,55.987918
+node/636984339,Creag a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Stirling,Scotland,-4.288714,56.315514
+node/2416235223,Creag a'Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Perth and Kinross,Scotland,-3.765902,56.584495
+node/33505443,Loch nam Madadh,,Loch nam Madadh,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",village,Na h-Eileanan Siar,Scotland,-7.160858,57.599625
+node/5152214923,Loch nam Madadh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",bay,Na h-Eileanan Siar,Scotland,-7.132412,57.600439
+node/1772991100,Madadh a' Bhealaich,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",bay,Argyll and Bute,Scotland,-5.686754,56.202095
+node/13701251621,Polmaddy,,Poll Madaidh,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",locality,Dumfries and Galloway,Scotland,-4.215221,55.164729
+node/539460409,Portavadie,,Port a' Mhadaidh,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",village,Argyll and Bute,Scotland,-5.316464,55.875112
+node/388371677,Sgùrr a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Highland,Scotland,-6.231852,57.230871
+node/3617517100,Sròn Mhadadh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",peak,Argyll and Bute,Scotland,-5.591776,56.146412
+node/13071329586,Uamh a' Mhadaidh,,,,madadh,word:gd_madadh,uncertain,uncertain,"madadh alone can be dog, fox or wolf",locality,Stirling,Scotland,-4.561303,56.117709

@@ -1,0 +1,1212 @@
+{
+ "n": {
+  "points": 145934,
+  "uk_place": 106905,
+  "uk_nature": 24964,
+  "ie_place": 14065,
+  "named_rules": 69,
+  "word_rules": 37,
+  "modern_rules": 22,
+  "exclude_rules": 23
+ },
+ "review": {
+  "candidates": 800,
+  "false_friends": 30,
+  "dropped": 26,
+  "kept": 744,
+  "places": 662,
+  "madadh": 23,
+  "overrides": 28,
+  "corrected_pc": 7.0,
+  "dropped_pc": 3.25,
+  "repeats_merged": 82
+ },
+ "certain": 189,
+ "certain_pc": 28.54984894259819,
+ "baseline": {
+  "median_elev": 92.0,
+  "upland_pc": 17.9428068765214,
+  "median_elev_places": 79.0,
+  "median_elev_nature": 237.0,
+  "nature_share_pc": 18.930908704851028
+ },
+ "animals": {
+  "wolf": {
+   "label": "Wolf",
+   "places": 33,
+   "certain": 4,
+   "probable": 29,
+   "names": 40,
+   "layer_english": 8,
+   "layer_norse": 1,
+   "layer_welsh": 3,
+   "layer_gaelic": 0,
+   "layer_irish": 0,
+   "layer_modern": 21,
+   "nat_England": 21,
+   "nat_Scotland": 5,
+   "nat_Wales": 4,
+   "nat_Northern_Ireland": 3,
+   "nat_Ireland": 0,
+   "median_elev": 256.0,
+   "upland_pc": 51.515151515151516,
+   "nature_pc": 15.151515151515152,
+   "settle_pc": 84.84848484848484,
+   "celtic": 3,
+   "celtic_pc": 9.090909090909092,
+   "english_old": 9,
+   "examples": [
+    "Cwm Bleiddiaid",
+    "Woolpit",
+    "Ulpha",
+    "Woolley",
+    "Blaidd",
+    "Woolley Green"
+   ]
+  },
+  "beaver": {
+   "label": "Beaver",
+   "places": 3,
+   "certain": 2,
+   "probable": 1,
+   "names": 3,
+   "layer_english": 3,
+   "layer_norse": 0,
+   "layer_welsh": 0,
+   "layer_gaelic": 0,
+   "layer_irish": 0,
+   "layer_modern": 0,
+   "nat_England": 3,
+   "nat_Scotland": 0,
+   "nat_Wales": 0,
+   "nat_Northern_Ireland": 0,
+   "nat_Ireland": 0,
+   "median_elev": 30.0,
+   "upland_pc": 0.0,
+   "nature_pc": 0.0,
+   "settle_pc": 100.0,
+   "celtic": 0,
+   "celtic_pc": 0.0,
+   "english_old": 3,
+   "examples": [
+    "Bevercotes",
+    "Beverley",
+    "Beversbrook"
+   ]
+  },
+  "crane": {
+   "label": "Crane",
+   "places": 23,
+   "certain": 9,
+   "probable": 14,
+   "names": 30,
+   "layer_english": 11,
+   "layer_norse": 1,
+   "layer_welsh": 0,
+   "layer_gaelic": 0,
+   "layer_irish": 0,
+   "layer_modern": 11,
+   "nat_England": 21,
+   "nat_Scotland": 2,
+   "nat_Wales": 0,
+   "nat_Northern_Ireland": 0,
+   "nat_Ireland": 0,
+   "median_elev": 103.0,
+   "upland_pc": 17.391304347826086,
+   "nature_pc": 8.695652173913043,
+   "settle_pc": 91.30434782608695,
+   "celtic": 0,
+   "celtic_pc": 0.0,
+   "english_old": 12,
+   "examples": [
+    "Lower Tranmere",
+    "Cranford",
+    "Cranbrook",
+    "Cranfield",
+    "Cranleigh",
+    "Cranford St. John"
+   ]
+  },
+  "eagle": {
+   "label": "Eagle",
+   "places": 41,
+   "certain": 31,
+   "probable": 10,
+   "names": 41,
+   "layer_english": 6,
+   "layer_norse": 0,
+   "layer_welsh": 4,
+   "layer_gaelic": 23,
+   "layer_irish": 1,
+   "layer_modern": 7,
+   "nat_England": 9,
+   "nat_Scotland": 24,
+   "nat_Wales": 4,
+   "nat_Northern_Ireland": 3,
+   "nat_Ireland": 1,
+   "median_elev": 230.0,
+   "upland_pc": 47.5,
+   "nature_pc": 75.0,
+   "settle_pc": 26.82926829268293,
+   "celtic": 28,
+   "celtic_pc": 68.29268292682927,
+   "english_old": 6,
+   "examples": [
+    "Cnoc na h-Iolaire",
+    "Baile na h-Iolaire",
+    "Cnoc na h-Iolaire",
+    "Nead an Iolair",
+    "Foel Eryr",
+    "Cnoc na h-Iolaire"
+   ]
+  },
+  "boar": {
+   "label": "Wild boar",
+   "places": 22,
+   "certain": 17,
+   "probable": 5,
+   "names": 25,
+   "layer_english": 5,
+   "layer_norse": 0,
+   "layer_welsh": 0,
+   "layer_gaelic": 15,
+   "layer_irish": 0,
+   "layer_modern": 2,
+   "nat_England": 7,
+   "nat_Scotland": 15,
+   "nat_Wales": 0,
+   "nat_Northern_Ireland": 0,
+   "nat_Ireland": 0,
+   "median_elev": 333.5,
+   "upland_pc": 54.54545454545454,
+   "nature_pc": 40.909090909090914,
+   "settle_pc": 59.09090909090909,
+   "celtic": 15,
+   "celtic_pc": 68.18181818181819,
+   "english_old": 5,
+   "examples": [
+    "Barran an Tuirc",
+    "Brig o' Turk",
+    "Torinturk",
+    "Wildboarclough",
+    "Clach an Tuirc",
+    "Càrr Feith Thuirc"
+   ]
+  },
+  "deer": {
+   "label": "Deer",
+   "places": 150,
+   "certain": 47,
+   "probable": 103,
+   "names": 177,
+   "layer_english": 33,
+   "layer_norse": 0,
+   "layer_welsh": 7,
+   "layer_gaelic": 28,
+   "layer_irish": 2,
+   "layer_modern": 80,
+   "nat_England": 91,
+   "nat_Scotland": 50,
+   "nat_Wales": 7,
+   "nat_Northern_Ireland": 0,
+   "nat_Ireland": 2,
+   "median_elev": 252.5,
+   "upland_pc": 50.0,
+   "nature_pc": 40.54054054054054,
+   "settle_pc": 60.0,
+   "celtic": 37,
+   "celtic_pc": 24.666666666666668,
+   "english_old": 33,
+   "examples": [
+    "Port an Fhèidh",
+    "Camas an Fhèidh",
+    "Anaheilt",
+    "Hartsop",
+    "Gallt-y-carw",
+    "Coir' Eilde"
+   ]
+  },
+  "fox": {
+   "label": "Fox",
+   "places": 147,
+   "certain": 22,
+   "probable": 125,
+   "names": 161,
+   "layer_english": 14,
+   "layer_norse": 0,
+   "layer_welsh": 5,
+   "layer_gaelic": 9,
+   "layer_irish": 2,
+   "layer_modern": 117,
+   "nat_England": 107,
+   "nat_Scotland": 30,
+   "nat_Wales": 8,
+   "nat_Northern_Ireland": 0,
+   "nat_Ireland": 2,
+   "median_elev": 144.0,
+   "upland_pc": 35.172413793103445,
+   "nature_pc": 26.20689655172414,
+   "settle_pc": 74.14965986394559,
+   "celtic": 16,
+   "celtic_pc": 10.884353741496598,
+   "english_old": 14,
+   "examples": [
+    "Foxley",
+    "Twll Llwynog",
+    "Foxley",
+    "Cwrt-y-cadno",
+    "Droimín na Sionnach",
+    "Creag an t-Sionnaich"
+   ]
+  },
+  "badger": {
+   "label": "Badger",
+   "places": 59,
+   "certain": 6,
+   "probable": 53,
+   "names": 65,
+   "layer_english": 3,
+   "layer_norse": 0,
+   "layer_welsh": 0,
+   "layer_gaelic": 3,
+   "layer_irish": 17,
+   "layer_modern": 36,
+   "nat_England": 32,
+   "nat_Scotland": 9,
+   "nat_Wales": 0,
+   "nat_Northern_Ireland": 8,
+   "nat_Ireland": 10,
+   "median_elev": 141.0,
+   "upland_pc": 26.53061224489796,
+   "nature_pc": 28.57142857142857,
+   "settle_pc": 76.27118644067797,
+   "celtic": 20,
+   "celtic_pc": 33.898305084745765,
+   "english_old": 3,
+   "examples": [
+    "Upper Brockholes",
+    "Brock",
+    "Ibrox",
+    "Broxburn",
+    "Brockhall",
+    "Brockholes"
+   ]
+  },
+  "wildcat": {
+   "label": "Wildcat",
+   "places": 55,
+   "certain": 1,
+   "probable": 54,
+   "names": 59,
+   "layer_english": 4,
+   "layer_norse": 0,
+   "layer_welsh": 1,
+   "layer_gaelic": 9,
+   "layer_irish": 1,
+   "layer_modern": 40,
+   "nat_England": 33,
+   "nat_Scotland": 19,
+   "nat_Wales": 2,
+   "nat_Northern_Ireland": 0,
+   "nat_Ireland": 1,
+   "median_elev": 202.5,
+   "upland_pc": 37.03703703703704,
+   "nature_pc": 35.18518518518518,
+   "settle_pc": 65.45454545454545,
+   "celtic": 11,
+   "celtic_pc": 20.0,
+   "english_old": 4,
+   "examples": [
+    "Catford",
+    "Poll a' Chait Fhiadhaich",
+    "Cat Crags",
+    "Craigencalt",
+    "Catcraig",
+    "Catcleugh"
+   ]
+  },
+  "raven": {
+   "label": "Raven",
+   "places": 93,
+   "certain": 38,
+   "probable": 55,
+   "names": 103,
+   "layer_english": 0,
+   "layer_norse": 0,
+   "layer_welsh": 2,
+   "layer_gaelic": 36,
+   "layer_irish": 0,
+   "layer_modern": 55,
+   "nat_England": 49,
+   "nat_Scotland": 40,
+   "nat_Wales": 4,
+   "nat_Northern_Ireland": 0,
+   "nat_Ireland": 0,
+   "median_elev": 224.0,
+   "upland_pc": 47.31182795698925,
+   "nature_pc": 50.53763440860215,
+   "settle_pc": 49.46236559139785,
+   "celtic": 38,
+   "celtic_pc": 40.86021505376344,
+   "english_old": 0,
+   "examples": [
+    "Sloc an Fhithich",
+    "Geo an Fhithich",
+    "Dunveoch",
+    "Creag an Fhithich",
+    "Bad an Fhithich",
+    "Cnoc nam Fitheach"
+   ]
+  },
+  "otter": {
+   "label": "Otter",
+   "places": 15,
+   "certain": 9,
+   "probable": 6,
+   "names": 17,
+   "layer_english": 5,
+   "layer_norse": 0,
+   "layer_welsh": 1,
+   "layer_gaelic": 3,
+   "layer_irish": 0,
+   "layer_modern": 6,
+   "nat_England": 9,
+   "nat_Scotland": 5,
+   "nat_Wales": 1,
+   "nat_Northern_Ireland": 0,
+   "nat_Ireland": 0,
+   "median_elev": 36.0,
+   "upland_pc": 6.666666666666667,
+   "nature_pc": 26.666666666666668,
+   "settle_pc": 73.33333333333333,
+   "celtic": 4,
+   "celtic_pc": 26.666666666666668,
+   "english_old": 5,
+   "examples": [
+    "Bàgh Clach an Dobhrain",
+    "Otterburn",
+    "Cnap an Dobhrain",
+    "Ffynnon-dwrgi",
+    "Craigendoran",
+    "Ottery St Mary"
+   ]
+  },
+  "salmon": {
+   "label": "Salmon",
+   "places": 3,
+   "certain": 2,
+   "probable": 1,
+   "names": 3,
+   "layer_english": 0,
+   "layer_norse": 1,
+   "layer_welsh": 0,
+   "layer_gaelic": 1,
+   "layer_irish": 0,
+   "layer_modern": 1,
+   "nat_England": 0,
+   "nat_Scotland": 1,
+   "nat_Wales": 0,
+   "nat_Northern_Ireland": 1,
+   "nat_Ireland": 1,
+   "median_elev": 451.0,
+   "upland_pc": 50.0,
+   "nature_pc": 50.0,
+   "settle_pc": 66.66666666666666,
+   "celtic": 1,
+   "celtic_pc": 33.333333333333336,
+   "english_old": 1,
+   "examples": [
+    "Meall nam Bradan Leathan",
+    "Leixlip",
+    "Salmon Rock"
+   ]
+  },
+  "swan": {
+   "label": "Swan",
+   "places": 9,
+   "certain": 1,
+   "probable": 8,
+   "names": 10,
+   "layer_english": 2,
+   "layer_norse": 0,
+   "layer_welsh": 0,
+   "layer_gaelic": 1,
+   "layer_irish": 0,
+   "layer_modern": 6,
+   "nat_England": 5,
+   "nat_Scotland": 3,
+   "nat_Wales": 1,
+   "nat_Northern_Ireland": 0,
+   "nat_Ireland": 0,
+   "median_elev": 94.0,
+   "upland_pc": 0.0,
+   "nature_pc": 44.44444444444444,
+   "settle_pc": 55.55555555555556,
+   "celtic": 1,
+   "celtic_pc": 11.11111111111111,
+   "english_old": 2,
+   "examples": [
+    "Sithean nan Ealachan",
+    "Swan's Pool",
+    "Swan Loch Copse",
+    "Swans Nest",
+    "Swan Island",
+    "Swans Hill"
+   ]
+  },
+  "kite": {
+   "label": "Kite",
+   "places": 9,
+   "certain": 0,
+   "probable": 9,
+   "names": 10,
+   "layer_english": 1,
+   "layer_norse": 0,
+   "layer_welsh": 0,
+   "layer_gaelic": 0,
+   "layer_irish": 0,
+   "layer_modern": 8,
+   "nat_England": 7,
+   "nat_Scotland": 2,
+   "nat_Wales": 0,
+   "nat_Northern_Ireland": 0,
+   "nat_Ireland": 0,
+   "median_elev": 130.0,
+   "upland_pc": 33.33333333333333,
+   "nature_pc": 44.44444444444444,
+   "settle_pc": 55.55555555555556,
+   "celtic": 0,
+   "celtic_pc": 0.0,
+   "english_old": 1,
+   "examples": [
+    "Kite Wood",
+    "Kites Hill",
+    "Glede Knowe",
+    "Kite Hill",
+    "Glede Howe",
+    "Kites Hill"
+   ]
+  }
+ },
+ "order_by_places": [
+  "deer",
+  "fox",
+  "raven",
+  "badger",
+  "wildcat",
+  "eagle",
+  "wolf",
+  "crane",
+  "boar",
+  "otter",
+  "swan",
+  "kite",
+  "beaver",
+  "salmon"
+ ],
+ "layers": {
+  "english": 95,
+  "norse": 3,
+  "welsh": 23,
+  "gaelic": 128,
+  "irish": 23,
+  "modern": 390
+ },
+ "nations": {
+  "England": 394,
+  "Scotland": 205,
+  "Wales": 31,
+  "Northern Ireland": 15,
+  "Ireland": 17
+ },
+ "elev_test": {
+  "wolf": {
+   "n": 33,
+   "median": 256.0,
+   "null_median": 103.0,
+   "p_high": 0.0,
+   "p_low": 1.0,
+   "upland_pc": 51.515151515151516,
+   "modern_median": 289.0
+  },
+  "crane": {
+   "n": 23,
+   "median": 103.0,
+   "null_median": 86.0,
+   "p_high": 0.2403,
+   "p_low": 0.77325,
+   "upland_pc": 17.391304347826086,
+   "modern_median": 159.0
+  },
+  "eagle": {
+   "n": 40,
+   "median": 230.0,
+   "null_median": 216.0,
+   "p_high": 0.37805,
+   "p_low": 0.6259,
+   "upland_pc": 47.5,
+   "modern_median": 219.0
+  },
+  "raven": {
+   "n": 93,
+   "median": 224.0,
+   "null_median": 169.0,
+   "p_high": 0.0245,
+   "p_low": 0.97735,
+   "upland_pc": 47.31182795698925,
+   "modern_median": 246.0
+  },
+  "boar": {
+   "n": 22,
+   "median": 333.5,
+   "null_median": 129.0,
+   "p_high": 5e-05,
+   "p_low": 0.99995,
+   "upland_pc": 54.54545454545454,
+   "modern_median": 539.0
+  },
+  "deer": {
+   "n": 148,
+   "median": 252.5,
+   "null_median": 136.0,
+   "p_high": 0.0,
+   "p_low": 1.0,
+   "upland_pc": 50.0,
+   "modern_median": 315.0
+  },
+  "fox": {
+   "n": 145,
+   "median": 144.0,
+   "null_median": 123.0,
+   "p_high": 0.10415,
+   "p_low": 0.9058,
+   "upland_pc": 35.172413793103445,
+   "modern_median": 164.0
+  },
+  "badger": {
+   "n": 49,
+   "median": 141.0,
+   "null_median": 129.0,
+   "p_high": 0.34215,
+   "p_low": 0.67055,
+   "upland_pc": 26.53061224489796,
+   "modern_median": 173.0
+  },
+  "wildcat": {
+   "n": 54,
+   "median": 202.5,
+   "null_median": 135.0,
+   "p_high": 0.015,
+   "p_low": 0.98555,
+   "upland_pc": 37.03703703703704,
+   "modern_median": 202.5
+  },
+  "otter": {
+   "n": 15,
+   "median": 36.0,
+   "null_median": 73.0,
+   "p_high": 0.95295,
+   "p_low": 0.0519,
+   "upland_pc": 6.666666666666667,
+   "modern_median": 25.5
+  }
+ },
+ "elev_test_other": {
+  "wolf": {
+   "n": 33,
+   "median": 256.0,
+   "null_median": 148.0,
+   "p_high": 0.0028,
+   "p_low": 0.99755
+  },
+  "boar": {
+   "n": 22,
+   "median": 333.5,
+   "null_median": 134.0,
+   "p_high": 0.0001,
+   "p_low": 0.9999
+  },
+  "deer": {
+   "n": 148,
+   "median": 252.5,
+   "null_median": 161.0,
+   "p_high": 5e-05,
+   "p_low": 0.99995
+  },
+  "otter": {
+   "n": 15,
+   "median": 36.0,
+   "null_median": 79.0,
+   "p_high": 0.98545,
+   "p_low": 0.01685
+  }
+ },
+ "modern_all_median": 224.0,
+ "wolf_english": {
+  "n": 30,
+  "median_elev": 257.0,
+  "upland_pc": 53.333333333333336,
+  "north_pc": 73.33333333333333
+ },
+ "crane_low": {
+  "n": 23,
+  "below50_pc": 17.391304347826086,
+  "below100_pc": 47.82608695652174,
+  "base_below50_pc": 35.844909031383004,
+  "base_below100_pc": 58.97198447219494,
+  "england_pc": 91.30434782608695,
+  "south_pc": 56.52173913043478,
+  "base_south_pc": 43.431320009933735,
+  "south_midlands_pc": 60.86956521739131,
+  "fen_counties": 1
+ },
+ "raven_modern": {
+  "n": 55,
+  "cumbria_nland": 32,
+  "cumbria_nland_pc": 58.18181818181818
+ },
+ "eagle": {
+  "gaelic": 23,
+  "welsh": 4,
+  "irish": 1,
+  "english": 6,
+  "modern": 7,
+  "n": 41,
+  "scotland_pc": 58.536585365853654,
+  "celtic_pc": 68.29268292682927
+ },
+ "lost_places": 81,
+ "lost_certain": 32,
+ "nature_pc": 35.80060422960725,
+ "settle_n": 425,
+ "settle_n_named_old": 98,
+ "hotspots": [
+  {
+   "sq": "32_49",
+   "k": 4,
+   "n": 7,
+   "animals": [
+    "badger",
+    "deer",
+    "raven",
+    "wildcat"
+   ],
+   "lon": -3.1814684285714288,
+   "lat": 54.341815,
+   "names": [
+    "Cat's Crag",
+    "Raven's Crag",
+    "Brock How",
+    "Cat Bank",
+    "Raven Tor",
+    "Harter Fell",
+    "Raven's Crag"
+   ],
+   "county": "Cumbria"
+  },
+  {
+   "sq": "37_60",
+   "k": 4,
+   "n": 6,
+   "animals": [
+    "deer",
+    "fox",
+    "raven",
+    "wildcat"
+   ],
+   "lon": -2.3893313333333333,
+   "lat": 55.346148166666666,
+   "names": [
+    "Upper Hindhope",
+    "Ravens Crags",
+    "Catcleugh",
+    "Deerlea Knowe",
+    "Tod Law",
+    "Catcleugh"
+   ],
+   "county": "Northumberland"
+  },
+  {
+   "sq": "39_58",
+   "k": 4,
+   "n": 6,
+   "animals": [
+    "badger",
+    "deer",
+    "fox",
+    "wolf"
+   ],
+   "lon": -2.0689145,
+   "lat": 55.1854825,
+   "names": [
+    "Brock Crag",
+    "Fox Holes",
+    "Wolf Crag",
+    "Hart Side",
+    "Tod Crag",
+    "Tod Crag"
+   ],
+   "county": "Northumberland"
+  },
+  {
+   "sq": "39_61",
+   "k": 4,
+   "n": 5,
+   "animals": [
+    "deer",
+    "fox",
+    "raven",
+    "wildcat"
+   ],
+   "lon": -2.052768,
+   "lat": 55.4160178,
+   "names": [
+    "Hartside Hill",
+    "Tod Stones",
+    "Ravens Crag Rock",
+    "Cat Crag",
+    "Hart Law"
+   ],
+   "county": "Northumberland"
+  },
+  {
+   "sq": "32_51",
+   "k": 4,
+   "n": 4,
+   "animals": [
+    "deer",
+    "eagle",
+    "raven",
+    "wildcat"
+   ],
+   "lon": -3.15689025,
+   "lat": 54.51089525,
+   "names": [
+    "Hind Side",
+    "Raven Crag Gully",
+    "Eagle Crag",
+    "Cat Bells"
+   ],
+   "county": "Cumbria"
+  },
+  {
+   "sq": "34_50",
+   "k": 3,
+   "n": 7,
+   "animals": [
+    "badger",
+    "deer",
+    "raven"
+   ],
+   "lon": -2.8364731428571432,
+   "lat": 54.45091242857143,
+   "names": [
+    "Hartrigg",
+    "Raven Crag",
+    "Harter Fell Gully",
+    "Raven Crag",
+    "Brock Crag",
+    "Raven Crag",
+    "Hart Crag"
+   ],
+   "county": "Cumbria"
+  },
+  {
+   "sq": "33_51",
+   "k": 3,
+   "n": 5,
+   "animals": [
+    "deer",
+    "raven",
+    "wildcat"
+   ],
+   "lon": -3.0012619999999997,
+   "lat": 54.53888020000001,
+   "names": [
+    "Raven Crag",
+    "Hart Crag",
+    "Raven Crag",
+    "Hart Side",
+    "Catstycam"
+   ],
+   "county": "Cumbria"
+  },
+  {
+   "sq": "34_51",
+   "k": 3,
+   "n": 5,
+   "animals": [
+    "badger",
+    "deer",
+    "raven"
+   ],
+   "lon": -2.8777176,
+   "lat": 54.530990599999996,
+   "names": [
+    "Hartsop",
+    "Hart Hill",
+    "Low Brock Crags",
+    "Brock Crags",
+    "Raven Howe"
+   ],
+   "county": "Cumbria"
+  }
+ ],
+ "hotspot_top": {
+  "sq": "32_49",
+  "k": 4,
+  "n": 7,
+  "animals": [
+   "badger",
+   "deer",
+   "raven",
+   "wildcat"
+  ],
+  "lon": -3.1814684285714288,
+  "lat": 54.341815,
+  "names": [
+   "Cat's Crag",
+   "Raven's Crag",
+   "Brock How",
+   "Cat Bank",
+   "Raven Tor",
+   "Harter Fell",
+   "Raven's Crag"
+  ],
+  "county": "Cumbria"
+ },
+ "county_top": [
+  {
+   "county": "Northumberland",
+   "per_1000": 16.023115313895456,
+   "places": 61,
+   "points": 3807
+  },
+  {
+   "county": "Argyll and Bute",
+   "per_1000": 13.22930800542741,
+   "places": 39,
+   "points": 2948
+  },
+  {
+   "county": "Cumbria",
+   "per_1000": 11.179132286398723,
+   "places": 84,
+   "points": 7514
+  },
+  {
+   "county": "Dumfries and Galloway",
+   "per_1000": 8.878504672897197,
+   "places": 19,
+   "points": 2140
+  },
+  {
+   "county": "Highland",
+   "per_1000": 8.762961881115817,
+   "places": 60,
+   "points": 6847
+  },
+  {
+   "county": "Derbyshire",
+   "per_1000": 8.0,
+   "places": 10,
+   "points": 1250
+  }
+ ],
+ "county_bottom": [
+  {
+   "county": "Shropshire",
+   "per_1000": 1.33422281521014,
+   "places": 2
+  },
+  {
+   "county": "West Sussex",
+   "per_1000": 1.0427528675703859,
+   "places": 2
+  },
+  {
+   "county": "Orkney Islands",
+   "per_1000": 0.9652509652509652,
+   "places": 1
+  },
+  {
+   "county": "Lincolnshire",
+   "per_1000": 0.6162514305836782,
+   "places": 7
+  }
+ ],
+ "uk_per_1000": 4.89121779948282,
+ "lost": [
+  {
+   "animal": "bear",
+   "label": "Brown bear",
+   "when": "early medieval at the latest",
+   "year": 800,
+   "src": "Yalden (1999)",
+   "places": 0
+  },
+  {
+   "animal": "boar",
+   "label": "Wild boar",
+   "when": "13th century in the wild; park herds into the 17th",
+   "year": 1250,
+   "src": "Yalden (1999)",
+   "places": 22
+  },
+  {
+   "animal": "wolf",
+   "label": "Wolf, England",
+   "when": "around 1500",
+   "year": 1500,
+   "src": "Yalden (1999); Pluskowski (2006)",
+   "places": 21
+  },
+  {
+   "animal": "beaver",
+   "label": "Beaver",
+   "when": "by the 16th century (debated)",
+   "year": 1550,
+   "src": "Coles (2006)",
+   "places": 3
+  },
+  {
+   "animal": "crane",
+   "label": "Crane, as a breeding bird",
+   "when": "around 1600",
+   "year": 1600,
+   "src": "Boisseau and Yalden (1998)",
+   "places": 23
+  },
+  {
+   "animal": "wolf",
+   "label": "Wolf, Scotland",
+   "when": "late 17th or 18th century",
+   "year": 1700,
+   "src": "Yalden (1999)",
+   "places": 5
+  },
+  {
+   "animal": "wolf",
+   "label": "Wolf, Ireland",
+   "when": "1786",
+   "year": 1786,
+   "src": "Hickey (2000)",
+   "places": 3
+  },
+  {
+   "animal": "eagle",
+   "label": "White-tailed eagle",
+   "when": "1918 (reintroduced from 1975)",
+   "year": 1918,
+   "src": "Love (1983)",
+   "places": 41
+  }
+ ],
+ "oldest_gap": 776,
+ "ex": {
+  "woolpit": {
+   "name": "Woolpit",
+   "county": "Suffolk",
+   "certainty": "certain",
+   "gloss": "pit for trapping wolves",
+   "element": "OE wulf-pytt",
+   "elev": 63.0,
+   "kind": "village"
+  },
+  "ulpha": {
+   "name": "Ulpha",
+   "county": "Cumbria",
+   "certainty": "certain",
+   "gloss": "hill frequented by wolves",
+   "element": "ON ulfr + haugr",
+   "elev": 70.0,
+   "kind": "village"
+  },
+  "beverley": {
+   "name": "Beverley",
+   "county": "East Riding of Yorkshire",
+   "certainty": "certain",
+   "gloss": "beaver stream or beaver lodge",
+   "element": "OE beofor + a stream name",
+   "elev": 13.0,
+   "kind": "town"
+  },
+  "bevercotes": {
+   "name": "Bevercotes",
+   "county": "Nottinghamshire",
+   "certainty": "certain",
+   "gloss": "beavers' lodges, shelters for beavers",
+   "element": "OE beofor + cot",
+   "elev": 30.0,
+   "kind": "hamlet"
+  },
+  "cranfield": {
+   "name": "Cranfield",
+   "county": "Bedfordshire",
+   "certainty": "certain",
+   "gloss": "open land frequented by cranes or herons",
+   "element": "OE cran + feld",
+   "elev": 112.0,
+   "kind": "village"
+  },
+  "tranmere": {
+   "name": "Lower Tranmere",
+   "county": "Merseyside",
+   "certainty": "certain",
+   "gloss": "sandbank frequented by cranes",
+   "element": "ON trani + melr",
+   "elev": 9.0,
+   "kind": "suburb"
+  },
+  "arncliffe": {
+   "name": "Arncliffe",
+   "county": "North Yorkshire",
+   "certainty": "certain",
+   "gloss": "cliff frequented by eagles",
+   "element": "OE earn + clif",
+   "elev": 228.0,
+   "kind": "village"
+  },
+  "eversley": {
+   "name": "Eversley",
+   "county": "Hampshire",
+   "certainty": "certain",
+   "gloss": "wood or clearing of the wild boar",
+   "element": "OE eofor + lēah",
+   "elev": 51.0,
+   "kind": "village"
+  },
+  "wildboarclough": {
+   "name": "Wildboarclough",
+   "county": "Cheshire",
+   "certainty": "certain",
+   "gloss": "ravine frequented by wild boar",
+   "element": "ME wilde bor + OE clōh",
+   "elev": 297.0,
+   "kind": "hamlet"
+  },
+  "wolfhole": {
+   "name": "Wolfhole Crag",
+   "county": "Lancashire",
+   "certainty": "probable",
+   "gloss": "descriptive name with the English or Scots word",
+   "element": "wolf (English or Scots word)",
+   "elev": 503.0,
+   "kind": "peak"
+  },
+  "leixlip": {
+   "name": "Leixlip",
+   "county": "",
+   "certainty": "certain",
+   "gloss": "salmon leap",
+   "element": "ON lax + hlaup",
+   "elev": 35.0,
+   "kind": "town"
+  },
+  "hartlepool": {
+   "name": "Hartlepool",
+   "county": "Durham",
+   "certainty": "certain",
+   "gloss": "pool by the hart island (Heruteu)",
+   "element": "OE heorot + ēg + pōl",
+   "elev": 9.0,
+   "kind": "town"
+  },
+  "brigoturk": {
+   "name": "Brig o' Turk",
+   "county": "Stirling",
+   "certainty": "certain",
+   "gloss": "torc, boar (genitive tuirc)",
+   "element": "torc",
+   "elev": 107.0,
+   "kind": "hamlet"
+  },
+  "catford": {
+   "name": "Catford",
+   "county": "Greater London",
+   "certainty": "certain",
+   "gloss": "ford frequented by (wild) cats",
+   "element": "OE catt + ford",
+   "elev": 20.0,
+   "kind": "town"
+  },
+  "earnley": {
+   "name": "Earnley",
+   "county": "West Sussex",
+   "certainty": "certain",
+   "gloss": "wood or clearing frequented by eagles",
+   "element": "OE earn + lēah",
+   "elev": 4.0,
+   "kind": "village"
+  },
+  "wildboarfell": {
+   "name": "Wild Boar Fell",
+   "county": "Cumbria",
+   "certainty": "probable",
+   "gloss": "descriptive name with the English or Scots word",
+   "element": "boar (English or Scots word)",
+   "elev": 692.0,
+   "kind": "peak"
+  },
+  "craigentinny": {
+   "name": "Craigentinny",
+   "county": "City of Edinburgh",
+   "certainty": "certain",
+   "gloss": "sionnach or madadh-ruadh, fox",
+   "element": "sionnach or madadh-ruadh",
+   "elev": 21.0,
+   "kind": "suburb"
+  },
+  "ibrox": {
+   "name": "Ibrox",
+   "county": "Glasgow City",
+   "certainty": "certain",
+   "gloss": "broc, badger (genitive bruic)",
+   "element": "broc",
+   "elev": 14.0,
+   "kind": "suburb"
+  }
+ },
+ "false_friend_examples": [
+  {
+   "name": "Wolverhampton",
+   "looks": "wolf",
+   "is": "Wulfrun's high farm, after a woman's name"
+  },
+  {
+   "name": "Eagle (Lincolnshire)",
+   "looks": "eagle",
+   "is": "Old English ac-leah, oak wood"
+  },
+  {
+   "name": "Eaglesham",
+   "looks": "eagle",
+   "is": "Gaelic eaglais, a church"
+  },
+  {
+   "name": "Swanage",
+   "looks": "swan",
+   "is": "Old English swan, herdsmen"
+  },
+  {
+   "name": "Roedean",
+   "looks": "roe deer",
+   "is": "Old English ruh denu, rough valley"
+  },
+  {
+   "name": "Brockley",
+   "looks": "badger",
+   "is": "a brook, or a personal name"
+  },
+  {
+   "name": "Cranagh",
+   "looks": "crane",
+   "is": "Irish crann, a tree"
+  },
+  {
+   "name": "Donnybrook",
+   "looks": "badger",
+   "is": "Domhnach Broc, St Broc's church"
+  }
+ ]
+}
